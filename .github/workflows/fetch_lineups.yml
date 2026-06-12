@@ -1,0 +1,40 @@
+name: Fetch WC Lineups
+
+on:
+  schedule:
+    # Duzeltme 5 (Patch v1.2 Bolum 4): 06:00 / 10:00 / 14:00 UTC
+    # = TR 09:00 / 13:00 / 17:00 - CRON-8 pencereleriyle (TR 13:30/17:30/20:30) hizali.
+    - cron: "0 6 * * *"
+    - cron: "0 10 * * *"
+    - cron: "0 14 * * *"
+  workflow_dispatch: # Elle tetiklemek icin
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write # data/ klasorune commit atmak icin
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Bagimliliklari yukle
+        run: pip install -r requirements.txt
+
+      - name: Scraper calistir
+        run: python scraper.py
+
+      - name: Degisiklikleri commit et
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "Lineups guncellendi: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
