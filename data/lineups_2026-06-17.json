@@ -1,6 +1,6 @@
 [
   {
-    "fetched_at": "2026-06-17T08:06:15Z",
+    "fetched_at": "2026-06-17T11:32:46Z",
     "match_time": "June 1712:00 AM ET",
     "match_date": "2026-06-17",
     "home_team": "AUT",
@@ -44,7 +44,7 @@
         "pos": "DR",
         "name": "Stefan Posch",
         "player_id": "23594",
-        "status": null,
+        "status": "OUT",
         "profile_url": "https://www.rotowire.com/soccer/player/stefan-posch-23594"
       },
       {
@@ -171,7 +171,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-17T08:06:15Z",
+    "fetched_at": "2026-06-17T11:32:46Z",
     "match_time": "June 171:00 PM ET",
     "match_date": "2026-06-17",
     "home_team": "POR",
@@ -180,9 +180,9 @@
     "away_status": "Predicted Lineup",
     "weather": "No weather info available",
     "odds": {
-      "-345": "-345",
-      "+442": "+442",
-      "+967": "+967"
+      "-353": "-353",
+      "+450": "+450",
+      "+1017": "+1017"
     },
     "home_players": [
       {
@@ -344,7 +344,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-17T08:06:15Z",
+    "fetched_at": "2026-06-17T11:32:46Z",
     "match_time": "June 174:00 PM ET",
     "match_date": "2026-06-17",
     "home_team": "ENG",
@@ -353,9 +353,9 @@
     "away_status": "Predicted Lineup",
     "weather": "No weather info available",
     "odds": {
-      "-140": "-140",
+      "-142": "-142",
       "+270": "+270",
-      "+400": "+400"
+      "+408": "+408"
     },
     "home_players": [
       {
@@ -517,14 +517,14 @@
     ]
   },
   {
-    "fetched_at": "2026-06-17T08:06:15Z",
+    "fetched_at": "2026-06-17T11:32:46Z",
     "match_time": "June 177:00 PM ET",
     "match_date": "2026-06-17",
     "home_team": "GHA",
     "away_team": "PAN",
     "home_status": "Predicted Lineup",
     "away_status": "Predicted Lineup",
-    "weather": "13% Precipitation 64°  Wind 14 mph 200.0",
+    "weather": "9% Precipitation 64°  Wind 13 mph 200.0",
     "odds": {
       "+133": "+133",
       "+217": "+217",
@@ -690,14 +690,14 @@
     ]
   },
   {
-    "fetched_at": "2026-06-17T08:06:15Z",
+    "fetched_at": "2026-06-17T11:32:46Z",
     "match_time": "June 1710:00 PM ET",
     "match_date": "2026-06-17",
     "home_team": "UZB",
     "away_team": "COL",
     "home_status": "Predicted Lineup",
     "away_status": "Predicted Lineup",
-    "weather": "81% Rain 58°  Wind 3 mph 239.6",
+    "weather": "61% Rain 62°  Wind 3 mph 58.8",
     "odds": {
       "+817": "+817",
       "+377": "+377",
@@ -863,16 +863,16 @@
     ]
   },
   {
-    "fetched_at": "2026-06-17T08:06:15Z",
+    "fetched_at": "2026-06-17T11:32:46Z",
     "match_time": "June 1812:00 PM ET",
     "match_date": "2026-06-18",
     "home_team": "CZE",
     "away_team": "RSA",
     "home_status": "Predicted Lineup",
     "away_status": "Predicted Lineup",
-    "weather": "56% Rain 81°  Wind 11 mph 220.0",
+    "weather": "43% Precipitation 79°  Wind 11 mph 220.0",
     "odds": {
-      "-132": "-132",
+      "-130": "-130",
       "+268": "+268",
       "+367": "+367"
     },
@@ -1036,7 +1036,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-17T08:06:15Z",
+    "fetched_at": "2026-06-17T11:32:46Z",
     "match_time": "June 183:00 PM ET",
     "match_date": "2026-06-18",
     "home_team": "SUI",
@@ -1209,16 +1209,16 @@
     ]
   },
   {
-    "fetched_at": "2026-06-17T08:06:15Z",
+    "fetched_at": "2026-06-17T11:32:46Z",
     "match_time": "June 186:00 PM ET",
     "match_date": "2026-06-18",
     "home_team": "CAN",
     "away_team": "QAT",
     "home_status": "Predicted Lineup",
     "away_status": "Predicted Lineup",
-    "weather": "0% 79°  Wind 12 mph 260.0",
+    "weather": "0% 79°  Wind 12 mph 270.0",
     "odds": {
-      "-357": "-357",
+      "-360": "-360",
       "+473": "+473",
       "+950": "+950"
     },
@@ -1382,18 +1382,18 @@
     ]
   },
   {
-    "fetched_at": "2026-06-17T08:06:15Z",
+    "fetched_at": "2026-06-17T11:32:46Z",
     "match_time": "June 189:00 PM ET",
     "match_date": "2026-06-18",
     "home_team": "MEX",
     "away_team": "KOR",
     "home_status": "Predicted Lineup",
     "away_status": "Predicted Lineup",
-    "weather": "26% Precipitation 76°  Wind 6 mph 233.7",
+    "weather": "23% Precipitation 75°  Wind 7 mph 236.2",
     "odds": {
-      "+32": "+32",
+      "+100": "+100",
       "+228": "+228",
-      "+300": "+300"
+      "+297": "+297"
     },
     "home_players": [
       {
@@ -1555,7 +1555,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-17T08:06:15Z",
+    "fetched_at": "2026-06-17T11:32:46Z",
     "match_time": "June 193:00 PM ET",
     "match_date": "2026-06-19",
     "home_team": "USA",
@@ -1728,18 +1728,18 @@
     ]
   },
   {
-    "fetched_at": "2026-06-17T08:06:15Z",
+    "fetched_at": "2026-06-17T11:32:46Z",
     "match_time": "June 196:00 PM ET",
     "match_date": "2026-06-19",
     "home_team": "SCO",
     "away_team": "MAR",
     "home_status": "Predicted Lineup",
     "away_status": "Predicted Lineup",
-    "weather": "6% Precipitation 78°  Wind 10 mph 266.7",
+    "weather": "0% 80°  Wind 10 mph 270.0",
     "odds": {
-      "+407": "+407",
+      "+417": "+417",
       "+255": "+255",
-      "-137": "-137"
+      "-138": "-138"
     },
     "home_players": [
       {
@@ -1901,7 +1901,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-17T08:06:15Z",
+    "fetched_at": "2026-06-17T11:32:46Z",
     "match_time": "June 198:30 PM ET",
     "match_date": "2026-06-19",
     "home_team": "BRA",
@@ -2074,14 +2074,14 @@
     ]
   },
   {
-    "fetched_at": "2026-06-17T08:06:15Z",
+    "fetched_at": "2026-06-17T11:32:46Z",
     "match_time": "June 1911:00 PM ET",
     "match_date": "2026-06-19",
     "home_team": "TUR",
     "away_team": "PAR",
     "home_status": "Predicted Lineup",
     "away_status": "Predicted Lineup",
-    "weather": "0% 67°  Wind 10 mph 230.0",
+    "weather": "0% 67°  Wind 11 mph 230.0",
     "odds": {
       "-35": "-35",
       "+237": "+237",
@@ -2247,7 +2247,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-17T08:06:15Z",
+    "fetched_at": "2026-06-17T11:32:46Z",
     "match_time": "June 201:00 PM ET",
     "match_date": "2026-06-20",
     "home_team": "NED",
@@ -2420,18 +2420,18 @@
     ]
   },
   {
-    "fetched_at": "2026-06-17T08:06:15Z",
+    "fetched_at": "2026-06-17T11:32:46Z",
     "match_time": "June 204:00 PM ET",
     "match_date": "2026-06-20",
     "home_team": "GER",
     "away_team": "CIV",
     "home_status": "Predicted Lineup",
     "away_status": "Predicted Lineup",
-    "weather": "9% Precipitation 67°  Wind 15 mph 286.7",
+    "weather": "6% Precipitation 67°  Wind 15 mph 280.0",
     "odds": {
-      "-180": "-180",
+      "-182": "-182",
       "+347": "+347",
-      "+448": "+448"
+      "+455": "+455"
     },
     "home_players": [
       {
@@ -2593,7 +2593,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-17T08:06:15Z",
+    "fetched_at": "2026-06-17T11:32:46Z",
     "match_time": "June 208:00 PM ET",
     "match_date": "2026-06-20",
     "home_team": "ECU",
@@ -2603,8 +2603,8 @@
     "weather": "No weather info available",
     "odds": {
       "-1033": "-1033",
-      "+967": "+967",
-      "+2233": "+2233"
+      "+983": "+983",
+      "+2167": "+2167"
     },
     "home_players": [
       {
@@ -2766,18 +2766,18 @@
     ]
   },
   {
-    "fetched_at": "2026-06-17T08:06:15Z",
+    "fetched_at": "2026-06-17T11:32:46Z",
     "match_time": "June 2112:00 AM ET",
     "match_date": "2026-06-21",
     "home_team": "TUN",
     "away_team": "JPN",
     "home_status": "Predicted Lineup",
     "away_status": "Predicted Lineup",
-    "weather": "65% Rain 74°  Wind 8 mph 160.0",
+    "weather": "72% Rain 74°  Wind 7 mph 140.0",
     "odds": {
       "+575": "+575",
       "+303": "+303",
-      "-192": "-192"
+      "-193": "-193"
     },
     "home_players": [
       {
@@ -2939,14 +2939,14 @@
     ]
   },
   {
-    "fetched_at": "2026-06-17T08:06:15Z",
+    "fetched_at": "2026-06-17T11:32:46Z",
     "match_time": "June 2112:00 PM ET",
     "match_date": "2026-06-21",
     "home_team": "ESP",
     "away_team": "KSA",
     "home_status": "Predicted Lineup",
     "away_status": "Predicted Lineup",
-    "weather": "14% Precipitation 81°  Wind 5 mph 203.3",
+    "weather": "11% Precipitation 82°  Wind 6 mph 220.0",
     "odds": {
       "-967": "-967",
       "+925": "+925",
@@ -3112,7 +3112,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-17T08:06:15Z",
+    "fetched_at": "2026-06-17T11:32:46Z",
     "match_time": "June 213:00 PM ET",
     "match_date": "2026-06-21",
     "home_team": "BEL",
@@ -3285,7 +3285,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-17T08:06:15Z",
+    "fetched_at": "2026-06-17T11:32:46Z",
     "match_time": "June 216:00 PM ET",
     "match_date": "2026-06-21",
     "home_team": "URU",
@@ -3294,9 +3294,9 @@
     "away_status": "Predicted Lineup",
     "weather": "No weather info available",
     "odds": {
-      "-210": "-210",
-      "+313": "+313",
-      "+642": "+642"
+      "-213": "-213",
+      "+317": "+317",
+      "+650": "+650"
     },
     "home_players": [
       {
@@ -3458,14 +3458,14 @@
     ]
   },
   {
-    "fetched_at": "2026-06-17T08:06:15Z",
+    "fetched_at": "2026-06-17T11:32:46Z",
     "match_time": "June 219:00 PM ET",
     "match_date": "2026-06-21",
     "home_team": "NZL",
     "away_team": "EGY",
     "home_status": "Predicted Lineup",
     "away_status": "Predicted Lineup",
-    "weather": "1% Precipitation 76°  Wind 5 mph 256.7",
+    "weather": "0% 78°  Wind 5 mph 253.3",
     "odds": {
       "+457": "+457",
       "+300": "+300",
@@ -3631,7 +3631,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-17T08:06:15Z",
+    "fetched_at": "2026-06-17T11:32:46Z",
     "match_time": "June 221:00 PM ET",
     "match_date": "2026-06-22",
     "home_team": "ARG",
@@ -3640,8 +3640,8 @@
     "away_status": "Unknown Lineup",
     "weather": "No weather info available",
     "odds": {
-      "-185": "-185",
-      "+307": "+307",
+      "-183": "-183",
+      "+303": "+303",
       "+525": "+525"
     },
     "home_players": [
@@ -3725,23 +3725,16 @@
     ],
     "away_players": [
       {
-        "pos": "M/D",
-        "name": "Florian Grillitsch",
-        "player_id": "20262",
+        "pos": "D",
+        "name": "Stefan Posch",
+        "player_id": "23594",
         "status": "QUES",
-        "profile_url": "https://www.rotowire.com/soccer/player/florian-grillitsch-20262"
-      },
-      {
-        "pos": "F/M",
-        "name": "Patrick Wimmer",
-        "player_id": "35521",
-        "status": "QUES",
-        "profile_url": "https://www.rotowire.com/soccer/player/patrick-wimmer-35521"
+        "profile_url": "https://www.rotowire.com/soccer/player/stefan-posch-23594"
       }
     ]
   },
   {
-    "fetched_at": "2026-06-17T08:06:15Z",
+    "fetched_at": "2026-06-17T11:32:46Z",
     "match_time": "June 225:00 PM ET",
     "match_date": "2026-06-22",
     "home_team": "FRA",
@@ -3752,7 +3745,7 @@
     "odds": {
       "-1033": "-1033",
       "+983": "+983",
-      "+2300": "+2300"
+      "+2400": "+2400"
     },
     "home_players": [
       {
@@ -3914,7 +3907,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-17T08:06:15Z",
+    "fetched_at": "2026-06-17T11:32:46Z",
     "match_time": "June 228:00 PM ET",
     "match_date": "2026-06-22",
     "home_team": "NOR",
@@ -3923,9 +3916,9 @@
     "away_status": "Predicted Lineup",
     "weather": "No weather info available",
     "odds": {
-      "+130": "+130",
-      "+245": "+245",
-      "+202": "+202"
+      "+135": "+135",
+      "+243": "+243",
+      "+195": "+195"
     },
     "home_players": [
       {
@@ -4087,14 +4080,14 @@
     ]
   },
   {
-    "fetched_at": "2026-06-17T08:06:15Z",
+    "fetched_at": "2026-06-17T11:32:46Z",
     "match_time": "June 2211:00 PM ET",
     "match_date": "2026-06-22",
     "home_team": "JOR",
     "away_team": "ALG",
     "home_status": "Unknown Lineup",
     "away_status": "Predicted Lineup",
-    "weather": "0% 69°  Wind 6 mph 310.0",
+    "weather": "0% 68°  Wind 7 mph 310.0",
     "odds": {
       "+483": "+483",
       "+303": "+303",
@@ -4182,7 +4175,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-17T08:06:15Z",
+    "fetched_at": "2026-06-17T11:32:46Z",
     "match_time": "June 231:00 PM ET",
     "match_date": "2026-06-23",
     "home_team": "POR",
@@ -4292,7 +4285,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-17T08:06:15Z",
+    "fetched_at": "2026-06-17T11:32:46Z",
     "match_time": "June 234:00 PM ET",
     "match_date": "2026-06-23",
     "home_team": "ENG",
@@ -4324,7 +4317,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-17T08:06:15Z",
+    "fetched_at": "2026-06-17T11:32:46Z",
     "match_time": "June 237:00 PM ET",
     "match_date": "2026-06-23",
     "home_team": "PAN",
@@ -4363,7 +4356,7 @@
     "away_players": []
   },
   {
-    "fetched_at": "2026-06-17T08:06:15Z",
+    "fetched_at": "2026-06-17T11:32:46Z",
     "match_time": "June 2310:00 PM ET",
     "match_date": "2026-06-23",
     "home_team": "COL",
