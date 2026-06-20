@@ -1,6 +1,6 @@
 [
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 201:00 PM ET",
     "match_date": "2026-06-20",
     "home_team": "NED",
@@ -9,9 +9,9 @@
     "away_status": "Predicted Lineup",
     "weather": "No weather info available",
     "odds": {
-      "-142": "-142",
+      "-145": "-145",
       "+300": "+300",
-      "+360": "+360"
+      "+370": "+370"
     },
     "home_players": [
       {
@@ -173,7 +173,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 204:00 PM ET",
     "match_date": "2026-06-20",
     "home_team": "GER",
@@ -182,9 +182,9 @@
     "away_status": "Predicted Lineup",
     "weather": "6% Precipitation 67°  Wind 11 mph 240.0",
     "odds": {
-      "-198": "-198",
-      "+363": "+363",
-      "+483": "+483"
+      "-203": "-203",
+      "+360": "+360",
+      "+508": "+508"
     },
     "home_players": [
       {
@@ -346,7 +346,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 208:00 PM ET",
     "match_date": "2026-06-20",
     "home_team": "ECU",
@@ -355,9 +355,9 @@
     "away_status": "Predicted Lineup",
     "weather": "No weather info available",
     "odds": {
-      "-767": "-767",
-      "+808": "+808",
-      "+1917": "+1917"
+      "-750": "-750",
+      "+792": "+792",
+      "+1933": "+1933"
     },
     "home_players": [
       {
@@ -519,18 +519,18 @@
     ]
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 2112:00 AM ET",
     "match_date": "2026-06-21",
     "home_team": "TUN",
     "away_team": "JPN",
     "home_status": "Predicted Lineup",
     "away_status": "Predicted Lineup",
-    "weather": "15% Precipitation 74°  Wind 8 mph 140.0",
+    "weather": "11% Precipitation 74°  Wind 8 mph 140.0",
     "odds": {
-      "+525": "+525",
-      "+293": "+293",
-      "-180": "-180"
+      "+542": "+542",
+      "+300": "+300",
+      "-185": "-185"
     },
     "home_players": [
       {
@@ -692,7 +692,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 2112:00 PM ET",
     "match_date": "2026-06-21",
     "home_team": "ESP",
@@ -865,7 +865,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 213:00 PM ET",
     "match_date": "2026-06-21",
     "home_team": "BEL",
@@ -874,8 +874,8 @@
     "away_status": "Predicted Lineup",
     "weather": "No weather info available",
     "odds": {
-      "-230": "-230",
-      "+357": "+357",
+      "-233": "-233",
+      "+363": "+363",
       "+633": "+633"
     },
     "home_players": [
@@ -1038,7 +1038,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 216:00 PM ET",
     "match_date": "2026-06-21",
     "home_team": "URU",
@@ -1047,9 +1047,9 @@
     "away_status": "Predicted Lineup",
     "weather": "No weather info available",
     "odds": {
-      "-228": "-228",
+      "-232": "-232",
       "+330": "+330",
-      "+717": "+717"
+      "+733": "+733"
     },
     "home_players": [
       {
@@ -1211,7 +1211,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 219:00 PM ET",
     "match_date": "2026-06-21",
     "home_team": "NZL",
@@ -1220,8 +1220,8 @@
     "away_status": "Predicted Lineup",
     "weather": "0% 78°  Wind 5 mph 250.0",
     "odds": {
-      "+457": "+457",
-      "+303": "+303",
+      "+448": "+448",
+      "+307": "+307",
       "-167": "-167"
     },
     "home_players": [
@@ -1384,7 +1384,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 221:00 PM ET",
     "match_date": "2026-06-22",
     "home_team": "ARG",
@@ -1557,7 +1557,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 225:00 PM ET",
     "match_date": "2026-06-22",
     "home_team": "FRA",
@@ -1566,9 +1566,9 @@
     "away_status": "Predicted Lineup",
     "weather": "No weather info available",
     "odds": {
-      "-1133": "-1133",
+      "-1200": "-1200",
       "+1050": "+1050",
-      "+2667": "+2667"
+      "+2733": "+2733"
     },
     "home_players": [
       {
@@ -1730,7 +1730,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 228:00 PM ET",
     "match_date": "2026-06-22",
     "home_team": "NOR",
@@ -1739,9 +1739,9 @@
     "away_status": "Predicted Lineup",
     "weather": "No weather info available",
     "odds": {
-      "+132": "+132",
+      "+128": "+128",
       "+243": "+243",
-      "+202": "+202"
+      "+210": "+210"
     },
     "home_players": [
       {
@@ -1903,14 +1903,14 @@
     ]
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 2211:00 PM ET",
     "match_date": "2026-06-22",
     "home_team": "JOR",
     "away_team": "ALG",
     "home_status": "Predicted Lineup",
     "away_status": "Predicted Lineup",
-    "weather": "0% 71°  Wind 7 mph 290.0",
+    "weather": "0% 71°  Wind 7 mph 300.0",
     "odds": {
       "+483": "+483",
       "+307": "+307",
@@ -2076,7 +2076,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 231:00 PM ET",
     "match_date": "2026-06-23",
     "home_team": "POR",
@@ -2249,18 +2249,18 @@
     ]
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 234:00 PM ET",
     "match_date": "2026-06-23",
     "home_team": "ENG",
     "away_team": "GHA",
     "home_status": "Predicted Lineup",
     "away_status": "Predicted Lineup",
-    "weather": "22% Precipitation 78°  Wind 7 mph 313.3",
+    "weather": "22% Precipitation 78°  Wind 7 mph 310.0",
     "odds": {
-      "-458": "-458",
+      "-467": "-467",
       "+550": "+550",
-      "+1267": "+1267"
+      "+1300": "+1300"
     },
     "home_players": [
       {
@@ -2422,7 +2422,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 237:00 PM ET",
     "match_date": "2026-06-23",
     "home_team": "PAN",
@@ -2531,10 +2531,10 @@
       },
       {
         "pos": "DC",
-        "name": "Luka Vuskovic",
-        "player_id": "46718",
+        "name": "Marin Pongracic",
+        "player_id": "29834",
         "status": null,
-        "profile_url": "https://www.rotowire.com/soccer/player/luka-vuskovic-46718"
+        "profile_url": "https://www.rotowire.com/soccer/player/marin-pongracic-29834"
       },
       {
         "pos": "DC",
@@ -2559,17 +2559,17 @@
       },
       {
         "pos": "MC",
-        "name": "Petar Sucic",
-        "player_id": "44170",
-        "status": null,
-        "profile_url": "https://www.rotowire.com/soccer/player/petar-sucic-44170"
-      },
-      {
-        "pos": "MC",
         "name": "Luka Modric",
         "player_id": "2105",
         "status": null,
         "profile_url": "https://www.rotowire.com/soccer/player/luka-modric-2105"
+      },
+      {
+        "pos": "MC",
+        "name": "Petar Sucic",
+        "player_id": "44170",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/petar-sucic-44170"
       },
       {
         "pos": "FWL",
@@ -2580,22 +2580,22 @@
       },
       {
         "pos": "FWR",
-        "name": "Andrej Kramaric",
-        "player_id": "18613",
+        "name": "Martin Baturina",
+        "player_id": "37763",
         "status": null,
-        "profile_url": "https://www.rotowire.com/soccer/player/andrej-kramaric-18613"
+        "profile_url": "https://www.rotowire.com/soccer/player/martin-baturina-37763"
       },
       {
         "pos": "FW",
-        "name": "Ante Budimir",
-        "player_id": "22101",
+        "name": "Petar Musa",
+        "player_id": "33621",
         "status": null,
-        "profile_url": "https://www.rotowire.com/soccer/player/ante-budimir-22101"
+        "profile_url": "https://www.rotowire.com/soccer/player/petar-musa-33621"
       }
     ]
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 2310:00 PM ET",
     "match_date": "2026-06-23",
     "home_team": "COL",
@@ -2625,17 +2625,17 @@
       },
       {
         "pos": "DC",
-        "name": "Jhon Lucumi",
-        "player_id": "28552",
-        "status": null,
-        "profile_url": "https://www.rotowire.com/soccer/player/jhon-lucumi-28552"
-      },
-      {
-        "pos": "DC",
         "name": "Davinson Sanchez",
         "player_id": "24928",
         "status": null,
         "profile_url": "https://www.rotowire.com/soccer/player/davinson-sanchez-24928"
+      },
+      {
+        "pos": "DC",
+        "name": "Jhon Lucumi",
+        "player_id": "28552",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/jhon-lucumi-28552"
       },
       {
         "pos": "DR",
@@ -2768,14 +2768,14 @@
     ]
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 243:00 PM ET",
     "match_date": "2026-06-24",
     "home_team": "SUI",
     "away_team": "CAN",
     "home_status": "Predicted Lineup",
     "away_status": "Predicted Lineup",
-    "weather": "0% 82°  Wind 6 mph 203.3",
+    "weather": "0% 82°  Wind 6 mph 200.0",
     "odds": {
       "+143": "+143",
       "+205": "+205",
@@ -2877,17 +2877,17 @@
       },
       {
         "pos": "DC",
-        "name": "Derek Cornelius",
-        "player_id": "27254",
-        "status": null,
-        "profile_url": "https://www.rotowire.com/soccer/player/derek-cornelius-27254"
-      },
-      {
-        "pos": "DC",
         "name": "Luc De Fougerolles",
         "player_id": "39974",
         "status": null,
         "profile_url": "https://www.rotowire.com/soccer/player/luc-de-fougerolles-39974"
+      },
+      {
+        "pos": "DC",
+        "name": "Derek Cornelius",
+        "player_id": "27254",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/derek-cornelius-27254"
       },
       {
         "pos": "DR",
@@ -2926,33 +2926,33 @@
       },
       {
         "pos": "FW",
-        "name": "Cyle Larin",
-        "player_id": "19001",
-        "status": null,
-        "profile_url": "https://www.rotowire.com/soccer/player/cyle-larin-19001"
-      },
-      {
-        "pos": "FW",
         "name": "Jonathan David",
         "player_id": "28653",
         "status": null,
         "profile_url": "https://www.rotowire.com/soccer/player/jonathan-david-28653"
+      },
+      {
+        "pos": "FW",
+        "name": "Cyle Larin",
+        "player_id": "19001",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/cyle-larin-19001"
       }
     ]
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 243:00 PM ET",
     "match_date": "2026-06-24",
     "home_team": "BIH",
     "away_team": "QAT",
     "home_status": "Predicted Lineup",
     "away_status": "Predicted Lineup",
-    "weather": "0% 77°  Wind 5 mph 260.0",
+    "weather": "0% 77°  Wind 5 mph 273.3",
     "odds": {
-      "-232": "-232",
+      "-230": "-230",
       "+383": "+383",
-      "+567": "+567"
+      "+550": "+550"
     },
     "home_players": [
       {
@@ -3114,7 +3114,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 246:00 PM ET",
     "match_date": "2026-06-24",
     "home_team": "SCO",
@@ -3144,17 +3144,17 @@
       },
       {
         "pos": "DC",
-        "name": "Jack Hendry",
-        "player_id": "30470",
-        "status": null,
-        "profile_url": "https://www.rotowire.com/soccer/player/jack-hendry-30470"
-      },
-      {
-        "pos": "DC",
         "name": "Grant Hanley",
         "player_id": "24486",
         "status": null,
         "profile_url": "https://www.rotowire.com/soccer/player/grant-hanley-24486"
+      },
+      {
+        "pos": "DC",
+        "name": "Jack Hendry",
+        "player_id": "30470",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/jack-hendry-30470"
       },
       {
         "pos": "DR",
@@ -3287,18 +3287,18 @@
     ]
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 246:00 PM ET",
     "match_date": "2026-06-24",
     "home_team": "MAR",
     "away_team": "HAI",
     "home_status": "Predicted Lineup",
     "away_status": "Predicted Lineup",
-    "weather": "40% Precipitation 82°  Wind 5 mph 290.0",
+    "weather": "40% Precipitation 82°  Wind 5 mph 273.3",
     "odds": {
       "-508": "-508",
-      "+567": "+567",
-      "+1350": "+1350"
+      "+583": "+583",
+      "+1417": "+1417"
     },
     "home_players": [
       {
@@ -3317,17 +3317,17 @@
       },
       {
         "pos": "DC",
-        "name": "Chadi Riad",
-        "player_id": "38141",
-        "status": null,
-        "profile_url": "https://www.rotowire.com/soccer/player/chadi-riad-38141"
-      },
-      {
-        "pos": "DC",
         "name": "Issa Diop",
         "player_id": "20797",
         "status": null,
         "profile_url": "https://www.rotowire.com/soccer/player/issa-diop-20797"
+      },
+      {
+        "pos": "DC",
+        "name": "Chadi Riad",
+        "player_id": "38141",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/chadi-riad-38141"
       },
       {
         "pos": "DR",
@@ -3445,33 +3445,33 @@
       },
       {
         "pos": "FW",
-        "name": "Frantzdy Pierrot",
-        "player_id": "28777",
-        "status": null,
-        "profile_url": "https://www.rotowire.com/soccer/player/frantzdy-pierrot-28777"
-      },
-      {
-        "pos": "FW",
         "name": "Wilson Isidor",
         "player_id": "26886",
         "status": null,
         "profile_url": "https://www.rotowire.com/soccer/player/wilson-isidor-26886"
+      },
+      {
+        "pos": "FW",
+        "name": "Frantzdy Pierrot",
+        "player_id": "28777",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/frantzdy-pierrot-28777"
       }
     ]
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 249:00 PM ET",
     "match_date": "2026-06-24",
     "home_team": "RSA",
     "away_team": "KOR",
     "home_status": "Predicted Lineup",
     "away_status": "Predicted Lineup",
-    "weather": "2% Precipitation 78°  Wind 16 mph 130.0",
+    "weather": "2% Precipitation 78°  Wind 16 mph 133.3",
     "odds": {
-      "+467": "+467",
+      "+463": "+463",
       "+290": "+290",
-      "-162": "-162"
+      "-160": "-160"
     },
     "home_players": [
       {
@@ -3562,17 +3562,17 @@
       },
       {
         "pos": "DC",
-        "name": "Kim Min-Jae",
-        "player_id": "34953",
-        "status": null,
-        "profile_url": "https://www.rotowire.com/soccer/player/kim-min-jae-34953"
-      },
-      {
-        "pos": "DC",
         "name": "Lee Han-Beom",
         "player_id": "44497",
         "status": null,
         "profile_url": "https://www.rotowire.com/soccer/player/lee-han-beom-44497"
+      },
+      {
+        "pos": "DC",
+        "name": "Kim Min-Jae",
+        "player_id": "34953",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/kim-min-jae-34953"
       },
       {
         "pos": "DC",
@@ -3633,7 +3633,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 249:00 PM ET",
     "match_date": "2026-06-24",
     "home_team": "CZE",
@@ -3642,7 +3642,7 @@
     "away_status": "Predicted Lineup",
     "weather": "81% Rain 62°  Wind 8 mph 36.0",
     "odds": {
-      "+252": "+252",
+      "+248": "+248",
       "+268": "+268",
       "+33": "+33"
     },
@@ -3806,7 +3806,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 254:00 PM ET",
     "match_date": "2026-06-25",
     "home_team": "CUW",
@@ -3815,8 +3815,8 @@
     "away_status": "Unknown Lineup",
     "weather": "No weather info available",
     "odds": {
-      "+1633": "+1633",
-      "+758": "+758",
+      "+1617": "+1617",
+      "+750": "+750",
       "-783": "-783"
     },
     "home_players": [],
@@ -3831,7 +3831,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 254:00 PM ET",
     "match_date": "2026-06-25",
     "home_team": "ECU",
@@ -3841,14 +3841,14 @@
     "weather": "No weather info available",
     "odds": {
       "+374": "+374",
-      "+283": "+283",
-      "-150": "-150"
+      "+280": "+280",
+      "-148": "-148"
     },
     "home_players": [],
     "away_players": []
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 257:00 PM ET",
     "match_date": "2026-06-25",
     "home_team": "TUN",
@@ -3880,7 +3880,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 257:00 PM ET",
     "match_date": "2026-06-25",
     "home_team": "JPN",
@@ -3909,10 +3909,18 @@
         "profile_url": "https://www.rotowire.com/soccer/player/takefusa-kubo-28551"
       }
     ],
-    "away_players": []
+    "away_players": [
+      {
+        "pos": "M/D",
+        "name": "Eric Smith",
+        "player_id": "43805",
+        "status": "QUES",
+        "profile_url": "https://www.rotowire.com/soccer/player/eric-smith-43805"
+      }
+    ]
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 2510:00 PM ET",
     "match_date": "2026-06-25",
     "home_team": "PAR",
@@ -3921,9 +3929,9 @@
     "away_status": "Predicted Lineup",
     "weather": "0% 74°  Wind 8 mph 300.0",
     "odds": {
-      "+183": "+183",
-      "+128": "+128",
-      "+282": "+282"
+      "+187": "+187",
+      "+125": "+125",
+      "+288": "+288"
     },
     "home_players": [
       {
@@ -3970,17 +3978,17 @@
       },
       {
         "pos": "MC",
-        "name": "Damian Bobadilla",
-        "player_id": "48083",
-        "status": null,
-        "profile_url": "https://www.rotowire.com/soccer/player/damian-bobadilla-48083"
-      },
-      {
-        "pos": "MC",
         "name": "Andres Cubas",
         "player_id": "23445",
         "status": null,
         "profile_url": "https://www.rotowire.com/soccer/player/andres-cubas-23445"
+      },
+      {
+        "pos": "MC",
+        "name": "Damian Bobadilla",
+        "player_id": "48083",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/damian-bobadilla-48083"
       },
       {
         "pos": "MR",
@@ -4056,17 +4064,17 @@
       },
       {
         "pos": "MC",
-        "name": "Aiden O'Neill",
-        "player_id": "23060",
-        "status": null,
-        "profile_url": "https://www.rotowire.com/soccer/player/aiden-oneill-23060"
-      },
-      {
-        "pos": "MC",
         "name": "Paul Okon",
         "player_id": "47958",
         "status": null,
         "profile_url": "https://www.rotowire.com/soccer/player/paul-okon-47958"
+      },
+      {
+        "pos": "MC",
+        "name": "Aiden O'Neill",
+        "player_id": "23060",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/aiden-oneill-23060"
       },
       {
         "pos": "MR",
@@ -4085,7 +4093,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 2510:00 PM ET",
     "match_date": "2026-06-25",
     "home_team": "TUR",
@@ -4095,7 +4103,7 @@
     "weather": "No weather info available",
     "odds": {
       "+205": "+205",
-      "+292": "+292",
+      "+288": "+288",
       "+113": "+113"
     },
     "home_players": [
@@ -4115,17 +4123,17 @@
       },
       {
         "pos": "DC",
-        "name": "Merih Demiral",
-        "player_id": "27103",
-        "status": null,
-        "profile_url": "https://www.rotowire.com/soccer/player/merih-demiral-27103"
-      },
-      {
-        "pos": "DC",
         "name": "Abdulkerim Bardakci",
         "player_id": "40562",
         "status": null,
         "profile_url": "https://www.rotowire.com/soccer/player/abdulkerim-bardakci-40562"
+      },
+      {
+        "pos": "DC",
+        "name": "Merih Demiral",
+        "player_id": "27103",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/merih-demiral-27103"
       },
       {
         "pos": "DR",
@@ -4136,17 +4144,17 @@
       },
       {
         "pos": "DMC",
-        "name": "Hakan Calhanoglu",
-        "player_id": "17229",
-        "status": null,
-        "profile_url": "https://www.rotowire.com/soccer/player/hakan-calhanoglu-17229"
-      },
-      {
-        "pos": "DMC",
         "name": "Orkun Kokcu",
         "player_id": "29968",
         "status": null,
         "profile_url": "https://www.rotowire.com/soccer/player/orkun-kokcu-29968"
+      },
+      {
+        "pos": "DMC",
+        "name": "Hakan Calhanoglu",
+        "player_id": "17229",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/hakan-calhanoglu-17229"
       },
       {
         "pos": "AML",
@@ -4194,17 +4202,17 @@
       },
       {
         "pos": "DC",
-        "name": "Mark McKenzie",
-        "player_id": "25534",
-        "status": null,
-        "profile_url": "https://www.rotowire.com/soccer/player/mark-mckenzie-25534"
-      },
-      {
-        "pos": "DC",
         "name": "Tim Ream",
         "player_id": "16495",
         "status": null,
         "profile_url": "https://www.rotowire.com/soccer/player/tim-ream-16495"
+      },
+      {
+        "pos": "DC",
+        "name": "Mark McKenzie",
+        "player_id": "25534",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/mark-mckenzie-25534"
       },
       {
         "pos": "DR",
@@ -4215,17 +4223,17 @@
       },
       {
         "pos": "DMC",
-        "name": "Tyler Adams",
-        "player_id": "20822",
-        "status": null,
-        "profile_url": "https://www.rotowire.com/soccer/player/tyler-adams-20822"
-      },
-      {
-        "pos": "DMC",
         "name": "Malik Tillman",
         "player_id": "32665",
         "status": null,
         "profile_url": "https://www.rotowire.com/soccer/player/malik-tillman-32665"
+      },
+      {
+        "pos": "DMC",
+        "name": "Tyler Adams",
+        "player_id": "20822",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/tyler-adams-20822"
       },
       {
         "pos": "AML",
@@ -4258,7 +4266,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 263:00 PM ET",
     "match_date": "2026-06-26",
     "home_team": "NOR",
@@ -4275,7 +4283,7 @@
     "away_players": []
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 263:00 PM ET",
     "match_date": "2026-06-26",
     "home_team": "SEN",
@@ -4307,7 +4315,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 268:00 PM ET",
     "match_date": "2026-06-26",
     "home_team": "CPV",
@@ -4317,22 +4325,14 @@
     "weather": "No weather info available",
     "odds": {
       "+173": "+173",
-      "+245": "+245",
+      "+248": "+248",
       "+140": "+140"
     },
     "home_players": [],
-    "away_players": [
-      {
-        "pos": "G",
-        "name": "Nawaf Al Aqidi",
-        "player_id": "38334",
-        "status": "QUES",
-        "profile_url": "https://www.rotowire.com/soccer/player/nawaf-al-aqidi-38334"
-      }
-    ]
+    "away_players": []
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 268:00 PM ET",
     "match_date": "2026-06-26",
     "home_team": "URU",
@@ -4379,7 +4379,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 2611:00 PM ET",
     "match_date": "2026-06-26",
     "home_team": "NZL",
@@ -4411,7 +4411,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-20T10:46:26Z",
+    "fetched_at": "2026-06-20T14:50:34Z",
     "match_time": "June 2611:00 PM ET",
     "match_date": "2026-06-26",
     "home_team": "EGY",
