@@ -1,6 +1,6 @@
 [
   {
-    "fetched_at": "2026-06-27T07:15:55Z",
+    "fetched_at": "2026-06-27T10:37:54Z",
     "match_time": "June 275:00 PM ET",
     "match_date": "2026-06-27",
     "home_team": "CRO",
@@ -9,9 +9,9 @@
     "away_status": "Predicted Lineup",
     "weather": "No weather info available",
     "odds": {
-      "-115": "-115",
-      "+213": "+213",
-      "+397": "+397"
+      "-113": "-113",
+      "+212": "+212",
+      "+393": "+393"
     },
     "home_players": [
       {
@@ -173,7 +173,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-27T07:15:55Z",
+    "fetched_at": "2026-06-27T10:37:54Z",
     "match_time": "June 275:00 PM ET",
     "match_date": "2026-06-27",
     "home_team": "PAN",
@@ -182,8 +182,8 @@
     "away_status": "Predicted Lineup",
     "weather": "No weather info available",
     "odds": {
-      "+1350": "+1350",
-      "+708": "+708",
+      "+1417": "+1417",
+      "+742": "+742",
       "-625": "-625"
     },
     "home_players": [
@@ -346,7 +346,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-27T07:15:55Z",
+    "fetched_at": "2026-06-27T10:37:54Z",
     "match_time": "June 277:30 PM ET",
     "match_date": "2026-06-27",
     "home_team": "COL",
@@ -355,9 +355,9 @@
     "away_status": "Predicted Lineup",
     "weather": "No weather info available",
     "odds": {
-      "+242": "+242",
-      "+273": "+273",
-      "+102": "+102"
+      "+245": "+245",
+      "+277": "+277",
+      "+33": "+33"
     },
     "home_players": [
       {
@@ -519,7 +519,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-27T07:15:55Z",
+    "fetched_at": "2026-06-27T10:37:54Z",
     "match_time": "June 277:30 PM ET",
     "match_date": "2026-06-27",
     "home_team": "COD",
@@ -528,9 +528,9 @@
     "away_status": "Predicted Lineup",
     "weather": "14% Precipitation 88°  Wind 10 mph 250.0",
     "odds": {
-      "-157": "-157",
-      "+303": "+303",
-      "+415": "+415"
+      "-167": "-167",
+      "+310": "+310",
+      "+453": "+453"
     },
     "home_players": [
       {
@@ -692,7 +692,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-27T07:15:55Z",
+    "fetched_at": "2026-06-27T10:37:54Z",
     "match_time": "June 2710:00 PM ET",
     "match_date": "2026-06-27",
     "home_team": "ALG",
@@ -701,9 +701,9 @@
     "away_status": "Predicted Lineup",
     "weather": "No weather info available",
     "odds": {
-      "+307": "+307",
-      "+115": "+115",
-      "+190": "+190"
+      "+320": "+320",
+      "+112": "+112",
+      "+193": "+193"
     },
     "home_players": [
       {
@@ -865,7 +865,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-27T07:15:55Z",
+    "fetched_at": "2026-06-27T10:37:54Z",
     "match_time": "June 2710:00 PM ET",
     "match_date": "2026-06-27",
     "home_team": "JOR",
@@ -874,9 +874,9 @@
     "away_status": "Predicted Lineup",
     "weather": "No weather info available",
     "odds": {
-      "+1533": "+1533",
-      "+717": "+717",
-      "-642": "-642"
+      "+1583": "+1583",
+      "+733": "+733",
+      "-658": "-658"
     },
     "home_players": [
       {
@@ -1038,7 +1038,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-27T07:15:55Z",
+    "fetched_at": "2026-06-27T10:37:54Z",
     "match_time": "June 283:00 PM ET",
     "match_date": "2026-06-28",
     "home_team": "RSA",
@@ -1211,7 +1211,7 @@
     ]
   },
   {
-    "fetched_at": "2026-06-27T07:15:55Z",
+    "fetched_at": "2026-06-27T10:37:54Z",
     "match_time": "June 291:00 PM ET",
     "match_date": "2026-06-29",
     "home_team": "BRA",
@@ -1221,7 +1221,7 @@
     "weather": "No weather info available",
     "odds": {
       "-145": "-145",
-      "+275": "+275",
+      "+278": "+278",
       "+413": "+413"
     },
     "home_players": [
@@ -1384,61 +1384,187 @@
     ]
   },
   {
-    "fetched_at": "2026-06-27T07:15:55Z",
+    "fetched_at": "2026-06-27T10:37:54Z",
     "match_time": "June 294:30 PM ET",
     "match_date": "2026-06-29",
     "home_team": "GER",
     "away_team": "PAR",
-    "home_status": "Unknown Lineup",
-    "away_status": "Unknown Lineup",
-    "weather": "4% Precipitation 84°  Wind 4 mph 106.7",
+    "home_status": "Predicted Lineup",
+    "away_status": "Predicted Lineup",
+    "weather": "4% Precipitation 82°  Wind 5 mph 90.0",
     "odds": {
-      "-250": "-250",
-      "+365": "+365",
-      "+675": "+675"
+      "-260": "-260",
+      "+383": "+383",
+      "+692": "+692"
     },
     "home_players": [
       {
-        "pos": "M/D",
+        "pos": "GK",
+        "name": "Manuel Neuer",
+        "player_id": "16146",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/manuel-neuer-16146"
+      },
+      {
+        "pos": "DL",
         "name": "Nathaniel Brown",
         "player_id": "40933",
-        "status": "QUES",
+        "status": "OUT",
         "profile_url": "https://www.rotowire.com/soccer/player/nathaniel-brown-40933"
       },
       {
-        "pos": "D",
-        "name": "Nico Schlotterbeck",
-        "player_id": "27656",
-        "status": "OUT",
-        "profile_url": "https://www.rotowire.com/soccer/player/nico-schlotterbeck-27656"
+        "pos": "DC",
+        "name": "Antonio Rudiger",
+        "player_id": "19179",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/antonio-rudiger-19179"
+      },
+      {
+        "pos": "DC",
+        "name": "Jonathan Tah",
+        "player_id": "19360",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/jonathan-tah-19360"
+      },
+      {
+        "pos": "DR",
+        "name": "Joshua Kimmich",
+        "player_id": "19296",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/joshua-kimmich-19296"
+      },
+      {
+        "pos": "DMC",
+        "name": "Felix Nmecha",
+        "player_id": "27147",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/felix-nmecha-27147"
+      },
+      {
+        "pos": "DMC",
+        "name": "Aleksandar Pavlovic",
+        "player_id": "39554",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/aleksandar-pavlovic-39554"
+      },
+      {
+        "pos": "AML",
+        "name": "Florian Wirtz",
+        "player_id": "32412",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/florian-wirtz-32412"
+      },
+      {
+        "pos": "AMC",
+        "name": "Jamal Musiala",
+        "player_id": "32430",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/jamal-musiala-32430"
+      },
+      {
+        "pos": "AMR",
+        "name": "Leroy Sane",
+        "player_id": "18473",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/leroy-sane-18473"
+      },
+      {
+        "pos": "FW",
+        "name": "Kai Havertz",
+        "player_id": "23157",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/kai-havertz-23157"
       }
     ],
     "away_players": [
       {
-        "pos": "D",
-        "name": "Omar Alderete",
-        "player_id": "30131",
-        "status": "QUES",
-        "profile_url": "https://www.rotowire.com/soccer/player/omar-alderete-30131"
+        "pos": "GK",
+        "name": "Orlando Gill",
+        "player_id": "48082",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/orlando-gill-48082"
       },
       {
-        "pos": "M",
-        "name": "Diego Gomez",
-        "player_id": "39929",
-        "status": "SUS",
-        "profile_url": "https://www.rotowire.com/soccer/player/diego-gomez-39929"
+        "pos": "DL",
+        "name": "Junior Alonso",
+        "player_id": "23460",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/junior-alonso-23460"
+      },
+      {
+        "pos": "DC",
+        "name": "Victor Gustavo Velazquez",
+        "player_id": "27626",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/victor-gustavo-velazquez-27626"
+      },
+      {
+        "pos": "DC",
+        "name": "Gustavo Gomez",
+        "player_id": "21256",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/gustavo-gomez-21256"
+      },
+      {
+        "pos": "DR",
+        "name": "Juan Jose Caceres",
+        "player_id": "48081",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/juan-jose-caceres-48081"
+      },
+      {
+        "pos": "ML",
+        "name": "Mauricio",
+        "player_id": "28887",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/mauricio-28887"
+      },
+      {
+        "pos": "MC",
+        "name": "Andres Cubas",
+        "player_id": "23445",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/andres-cubas-23445"
+      },
+      {
+        "pos": "MC",
+        "name": "Matias Galarza",
+        "player_id": "47876",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/matias-galarza-47876"
+      },
+      {
+        "pos": "MR",
+        "name": "Miguel Almiron",
+        "player_id": "13443",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/miguel-almiron-13443"
+      },
+      {
+        "pos": "FW",
+        "name": "Gabriel Avalos",
+        "player_id": "48077",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/gabriel-avalos-48077"
+      },
+      {
+        "pos": "FW",
+        "name": "Julio Enciso",
+        "player_id": "37012",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/julio-enciso-37012"
       }
     ]
   },
   {
-    "fetched_at": "2026-06-27T07:15:55Z",
+    "fetched_at": "2026-06-27T10:37:54Z",
     "match_time": "June 299:00 PM ET",
     "match_date": "2026-06-29",
     "home_team": "NED",
     "away_team": "MAR",
     "home_status": "Predicted Lineup",
     "away_status": "Predicted Lineup",
-    "weather": "15% Precipitation 81°  Wind 19 mph 130.0",
+    "weather": "8% Precipitation 81°  Wind 20 mph 130.0",
     "odds": {
       "+113": "+113",
       "+222": "+222",
@@ -1461,17 +1587,17 @@
       },
       {
         "pos": "DC",
-        "name": "Virgil van Dijk",
-        "player_id": "19194",
-        "status": null,
-        "profile_url": "https://www.rotowire.com/soccer/player/virgil-van-dijk-19194"
-      },
-      {
-        "pos": "DC",
         "name": "Jan Paul van Hecke",
         "player_id": "33114",
         "status": null,
         "profile_url": "https://www.rotowire.com/soccer/player/jan-paul-van-hecke-33114"
+      },
+      {
+        "pos": "DC",
+        "name": "Virgil van Dijk",
+        "player_id": "19194",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/virgil-van-dijk-19194"
       },
       {
         "pos": "DR",
@@ -1540,17 +1666,17 @@
       },
       {
         "pos": "DC",
-        "name": "Issa Diop",
-        "player_id": "20797",
-        "status": null,
-        "profile_url": "https://www.rotowire.com/soccer/player/issa-diop-20797"
-      },
-      {
-        "pos": "DC",
         "name": "Chadi Riad",
         "player_id": "38141",
         "status": null,
         "profile_url": "https://www.rotowire.com/soccer/player/chadi-riad-38141"
+      },
+      {
+        "pos": "DC",
+        "name": "Issa Diop",
+        "player_id": "20797",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/issa-diop-20797"
       },
       {
         "pos": "DR",
@@ -1604,87 +1730,360 @@
     ]
   },
   {
-    "fetched_at": "2026-06-27T07:15:55Z",
+    "fetched_at": "2026-06-27T10:37:54Z",
     "match_time": "June 301:00 PM ET",
     "match_date": "2026-06-30",
     "home_team": "CIV",
     "away_team": "NOR",
-    "home_status": "Unknown Lineup",
-    "away_status": "Unknown Lineup",
+    "home_status": "Predicted Lineup",
+    "away_status": "Predicted Lineup",
     "weather": "No weather info available",
     "odds": {
-      "+270": "+270",
-      "+257": "+257",
+      "+273": "+273",
+      "+255": "+255",
       "+32": "+32"
     },
     "home_players": [
       {
-        "pos": "M/D",
-        "name": "Wilfried Singo",
-        "player_id": "27627",
-        "status": "QUES",
-        "profile_url": "https://www.rotowire.com/soccer/player/wilfried-singo-27627"
+        "pos": "GK",
+        "name": "Yahia Fofana",
+        "player_id": "37069",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/yahia-fofana-37069"
+      },
+      {
+        "pos": "DL",
+        "name": "Ghislain Konan",
+        "player_id": "26529",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/ghislain-konan-26529"
+      },
+      {
+        "pos": "DC",
+        "name": "Odilon Kossounou",
+        "player_id": "29818",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/odilon-kossounou-29818"
+      },
+      {
+        "pos": "DC",
+        "name": "Ousmane Diomande",
+        "player_id": "38747",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/ousmane-diomande-38747"
+      },
+      {
+        "pos": "DR",
+        "name": "Guela Doue",
+        "player_id": "37601",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/guela-doue-37601"
+      },
+      {
+        "pos": "DMC",
+        "name": "Ibrahim Sangare",
+        "player_id": "21982",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/ibrahim-sangare-21982"
+      },
+      {
+        "pos": "ML",
+        "name": "Yan Diomande",
+        "player_id": "46409",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/yan-diomande-46409"
+      },
+      {
+        "pos": "MC",
+        "name": "Christ Inao Oulai",
+        "player_id": "47978",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/christ-inao-oulai-47978"
+      },
+      {
+        "pos": "MC",
+        "name": "Franck Kessie",
+        "player_id": "21954",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/franck-kessie-21954"
+      },
+      {
+        "pos": "MR",
+        "name": "Amad Diallo",
+        "player_id": "30618",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/amad-diallo-30618"
+      },
+      {
+        "pos": "FW",
+        "name": "Nicolas Pepe",
+        "player_id": "21915",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/nicolas-pepe-21915"
       }
     ],
     "away_players": [
       {
-        "pos": "M/D",
+        "pos": "GK",
+        "name": "Orjan Nyland",
+        "player_id": "19899",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/orjan-nyland-19899"
+      },
+      {
+        "pos": "DL",
+        "name": "David Moller Wolfe",
+        "player_id": "44313",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/david-moller-wolfe-44313"
+      },
+      {
+        "pos": "DC",
+        "name": "Torbjorn Heggem",
+        "player_id": "44621",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/torbjorn-heggem-44621"
+      },
+      {
+        "pos": "DC",
+        "name": "Kristoffer Ajer",
+        "player_id": "22869",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/kristoffer-ajer-22869"
+      },
+      {
+        "pos": "DR",
         "name": "Julian Ryerson",
         "player_id": "28864",
         "status": "OUT",
         "profile_url": "https://www.rotowire.com/soccer/player/julian-ryerson-28864"
+      },
+      {
+        "pos": "MC",
+        "name": "Sander Berge",
+        "player_id": "29740",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/sander-berge-29740"
+      },
+      {
+        "pos": "MC",
+        "name": "Fredrik Aursnes",
+        "player_id": "33859",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/fredrik-aursnes-33859"
+      },
+      {
+        "pos": "MC",
+        "name": "Martin Odegaard",
+        "player_id": "18746",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/martin-odegaard-18746"
+      },
+      {
+        "pos": "FWL",
+        "name": "Antonio Nusa",
+        "player_id": "35612",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/antonio-nusa-35612"
+      },
+      {
+        "pos": "FWR",
+        "name": "Alexander Sorloth",
+        "player_id": "25428",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/alexander-sorloth-25428"
+      },
+      {
+        "pos": "FW",
+        "name": "Erling Haaland",
+        "player_id": "29664",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/erling-haaland-29664"
       }
     ]
   },
   {
-    "fetched_at": "2026-06-27T07:15:55Z",
+    "fetched_at": "2026-06-27T10:37:54Z",
     "match_time": "June 305:00 PM ET",
     "match_date": "2026-06-30",
     "home_team": "FRA",
     "away_team": "SWE",
-    "home_status": "Unknown Lineup",
-    "away_status": "Unknown Lineup",
+    "home_status": "Predicted Lineup",
+    "away_status": "Predicted Lineup",
     "weather": "No weather info available",
     "odds": {
-      "-328": "-328",
-      "+432": "+432",
-      "+900": "+900"
+      "-337": "-337",
+      "+455": "+455",
+      "+908": "+908"
     },
     "home_players": [
       {
-        "pos": "D",
+        "pos": "GK",
+        "name": "Mike Maignan",
+        "player_id": "18437",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/mike-maignan-18437"
+      },
+      {
+        "pos": "DL",
+        "name": "Theo Hernandez",
+        "player_id": "22398",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/theo-hernandez-22398"
+      },
+      {
+        "pos": "DC",
+        "name": "Dayot Upamecano",
+        "player_id": "23324",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/dayot-upamecano-23324"
+      },
+      {
+        "pos": "DC",
         "name": "William Saliba",
         "player_id": "26575",
         "status": "OUT",
         "profile_url": "https://www.rotowire.com/soccer/player/william-saliba-26575"
+      },
+      {
+        "pos": "DR",
+        "name": "Jules Kounde",
+        "player_id": "25317",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/jules-kounde-25317"
+      },
+      {
+        "pos": "DMC",
+        "name": "Aurelien Tchouameni",
+        "player_id": "26546",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/aurelien-tchouameni-26546"
+      },
+      {
+        "pos": "DMC",
+        "name": "Manu Kone",
+        "player_id": "27124",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/manu-kone-27124"
+      },
+      {
+        "pos": "AML",
+        "name": "Desire Doue",
+        "player_id": "36484",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/desire-doue-36484"
+      },
+      {
+        "pos": "AMC",
+        "name": "Michael Olise",
+        "player_id": "31393",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/michael-olise-31393"
+      },
+      {
+        "pos": "AMR",
+        "name": "Ousmane Dembele",
+        "player_id": "20403",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/ousmane-dembele-20403"
+      },
+      {
+        "pos": "FW",
+        "name": "Kylian Mbappe",
+        "player_id": "20285",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/kylian-mbappe-20285"
       }
     ],
     "away_players": [
       {
-        "pos": "D",
+        "pos": "GK",
+        "name": "Kristoffer Nordfeldt",
+        "player_id": "19164",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/kristoffer-nordfeldt-19164"
+      },
+      {
+        "pos": "DC",
         "name": "Victor Lindelof",
         "player_id": "18234",
-        "status": "QUES",
+        "status": "OUT",
         "profile_url": "https://www.rotowire.com/soccer/player/victor-lindelof-18234"
       },
       {
-        "pos": "D",
-        "name": "Isak Hien",
-        "player_id": "37650",
-        "status": "OUT",
-        "profile_url": "https://www.rotowire.com/soccer/player/isak-hien-37650"
+        "pos": "DC",
+        "name": "Gustaf Lagerbielke",
+        "player_id": "40531",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/gustaf-lagerbielke-40531"
+      },
+      {
+        "pos": "DC",
+        "name": "Gabriel Gudmundsson",
+        "player_id": "35627",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/gabriel-gudmundsson-35627"
+      },
+      {
+        "pos": "ML",
+        "name": "Elliot Stroud",
+        "player_id": "48188",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/elliot-stroud-48188"
+      },
+      {
+        "pos": "MC",
+        "name": "Jesper Karlstrom",
+        "player_id": "44015",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/jesper-karlstrom-44015"
+      },
+      {
+        "pos": "MC",
+        "name": "Yasin Ayari",
+        "player_id": "38732",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/yasin-ayari-38732"
+      },
+      {
+        "pos": "MR",
+        "name": "Alexander Bernhardsson",
+        "player_id": "43990",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/alexander-bernhardsson-43990"
+      },
+      {
+        "pos": "FWL",
+        "name": "Alexander Isak",
+        "player_id": "23369",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/alexander-isak-23369"
+      },
+      {
+        "pos": "FWR",
+        "name": "Anthony Elanga",
+        "player_id": "34595",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/anthony-elanga-34595"
+      },
+      {
+        "pos": "FW",
+        "name": "Viktor Gyokeres",
+        "player_id": "26991",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/viktor-gyokeres-26991"
       }
     ]
   },
   {
-    "fetched_at": "2026-06-27T07:15:55Z",
+    "fetched_at": "2026-06-27T10:37:54Z",
     "match_time": "July 18:00 PM ET",
     "match_date": "2026-07-18",
     "home_team": "USA",
     "away_team": "BIH",
     "home_status": "Predicted Lineup",
     "away_status": "Predicted Lineup",
-    "weather": "0% 72°  Wind 11 mph 270.0",
+    "weather": "0% 72°  Wind 12 mph 270.0",
     "odds": {
       "-262": "-262",
       "+377": "+377",
@@ -1850,13 +2249,81 @@
     ]
   },
   {
-    "fetched_at": "2026-06-27T07:15:55Z",
+    "fetched_at": "2026-06-27T10:37:54Z",
+    "match_time": "July 32:00 PM ET",
+    "match_date": null,
+    "home_team": "AUS",
+    "away_team": "EGY",
+    "home_status": "Unknown Lineup",
+    "away_status": "Unknown Lineup",
+    "weather": "No weather info available",
+    "odds": {
+      "+233": "+233",
+      "+195": "+195",
+      "+142": "+142"
+    },
+    "home_players": [
+      {
+        "pos": "M",
+        "name": "Jacob Italiano",
+        "player_id": "38380",
+        "status": "OUT",
+        "profile_url": "https://www.rotowire.com/soccer/player/jacob-italiano-38380"
+      },
+      {
+        "pos": "F",
+        "name": "Mathew Leckie",
+        "player_id": "17572",
+        "status": "OUT",
+        "profile_url": "https://www.rotowire.com/soccer/player/mathew-leckie-17572"
+      }
+    ],
+    "away_players": [
+      {
+        "pos": "D",
+        "name": "Mohamed Abdelmonem",
+        "player_id": "44133",
+        "status": "QUES",
+        "profile_url": "https://www.rotowire.com/soccer/player/mohamed-abdelmonem-44133"
+      },
+      {
+        "pos": "F",
+        "name": "Mohamed Salah",
+        "player_id": "17384",
+        "status": "QUES",
+        "profile_url": "https://www.rotowire.com/soccer/player/mohamed-salah-17384"
+      },
+      {
+        "pos": "M",
+        "name": "Mohanad Lasheen",
+        "player_id": "48000",
+        "status": "SUS",
+        "profile_url": "https://www.rotowire.com/soccer/player/mohanad-lasheen-48000"
+      },
+      {
+        "pos": "M/D",
+        "name": "Hamdy Fathy",
+        "player_id": "48002",
+        "status": "OUT",
+        "profile_url": "https://www.rotowire.com/soccer/player/hamdy-fathy-48002"
+      },
+      {
+        "pos": "D",
+        "name": "Hossam Abdelmaguid",
+        "player_id": "43618",
+        "status": "OUT",
+        "profile_url": "https://www.rotowire.com/soccer/player/hossam-abdelmaguid-43618"
+      }
+    ]
+  },
+  {
+    "fetched_at": "2026-06-27T10:37:54Z",
     "match_time": "July 36:00 PM ET",
     "match_date": null,
     "home_team": "ARG",
     "away_team": "CPV",
     "home_status": "Unknown Lineup",
-    "away_status": "Unknown Lineup",
+    "away_status": "Predicted Lineup",
     "weather": "No weather info available",
     "odds": {
       "-625": "-625",
@@ -1874,18 +2341,81 @@
     ],
     "away_players": [
       {
-        "pos": "D",
+        "pos": "GK",
+        "name": "Vozinha",
+        "player_id": "47971",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/vozinha-47971"
+      },
+      {
+        "pos": "DL",
         "name": "Sidny Lopes Cabral",
         "player_id": "47844",
-        "status": "SUS",
+        "status": null,
         "profile_url": "https://www.rotowire.com/soccer/player/sidny-lopes-cabral-47844"
       },
       {
-        "pos": "M",
-        "name": "Telmo Arcanjo",
-        "player_id": "47964",
-        "status": "OUT",
-        "profile_url": "https://www.rotowire.com/soccer/player/telmo-arcanjo-47964"
+        "pos": "DC",
+        "name": "Diney",
+        "player_id": "47967",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/diney-47967"
+      },
+      {
+        "pos": "DC",
+        "name": "Pico",
+        "player_id": "48164",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/pico-48164"
+      },
+      {
+        "pos": "DR",
+        "name": "Steven Moreira",
+        "player_id": "20394",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/steven-moreira-20394"
+      },
+      {
+        "pos": "DMC",
+        "name": "Kevin Pina",
+        "player_id": "47969",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/kevin-pina-47969"
+      },
+      {
+        "pos": "ML",
+        "name": "Willy Semedo",
+        "player_id": "47973",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/willy-semedo-47973"
+      },
+      {
+        "pos": "MC",
+        "name": "Deroy Duarte",
+        "player_id": "44352",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/deroy-duarte-44352"
+      },
+      {
+        "pos": "MC",
+        "name": "Jamiro Monteiro",
+        "player_id": "27637",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/jamiro-monteiro-27637"
+      },
+      {
+        "pos": "MR",
+        "name": "Ryan Mendes",
+        "player_id": "22438",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/ryan-mendes-22438"
+      },
+      {
+        "pos": "FW",
+        "name": "Dailon Livramento",
+        "player_id": "43802",
+        "status": null,
+        "profile_url": "https://www.rotowire.com/soccer/player/dailon-livramento-43802"
       }
     ]
   }

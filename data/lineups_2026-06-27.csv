@@ -1,233 +1,306 @@
 fetched_at,match_time,match_date,home_team,away_team,home_status,away_status,team,side,pos,name,player_id,status,profile_url
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,CRO,home,GK,Dominik Livakovic,22886,,https://www.rotowire.com/soccer/player/dominik-livakovic-22886
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,CRO,home,DL,Ivan Perisic,17686,,https://www.rotowire.com/soccer/player/ivan-perisic-17686
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,CRO,home,DC,Duje Caleta-Car,25940,,https://www.rotowire.com/soccer/player/duje-caleta-car-25940
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,CRO,home,DC,Josip Sutalo,33587,,https://www.rotowire.com/soccer/player/josip-sutalo-33587
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,CRO,home,DR,Josip Stanisic,34597,,https://www.rotowire.com/soccer/player/josip-stanisic-34597
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,CRO,home,DMC,Luka Modric,2105,,https://www.rotowire.com/soccer/player/luka-modric-2105
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,CRO,home,DMC,Mateo Kovacic,17032,,https://www.rotowire.com/soccer/player/mateo-kovacic-17032
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,CRO,home,AML,Martin Baturina,37763,,https://www.rotowire.com/soccer/player/martin-baturina-37763
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,CRO,home,AMC,Andrej Kramaric,18613,,https://www.rotowire.com/soccer/player/andrej-kramaric-18613
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,CRO,home,AMR,Marco Pasalic,35668,,https://www.rotowire.com/soccer/player/marco-pasalic-35668
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,CRO,home,FW,Ante Budimir,22101,,https://www.rotowire.com/soccer/player/ante-budimir-22101
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,GHA,away,GK,Benjamin Asare,48011,,https://www.rotowire.com/soccer/player/benjamin-asare-48011
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,GHA,away,DL,Gideon Mensah,35498,,https://www.rotowire.com/soccer/player/gideon-mensah-35498
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,GHA,away,DC,Jerome Opoku,32975,,https://www.rotowire.com/soccer/player/jerome-opoku-32975
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,GHA,away,DC,Jonas Adjetey,47212,,https://www.rotowire.com/soccer/player/jonas-adjetey-47212
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,GHA,away,DR,Marvin Senaya,34131,,https://www.rotowire.com/soccer/player/marvin-senaya-34131
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,GHA,away,DMC,Thomas Partey,19273,,https://www.rotowire.com/soccer/player/thomas-partey-19273
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,GHA,away,ML,Antoine Semenyo,33148,,https://www.rotowire.com/soccer/player/antoine-semenyo-33148
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,GHA,away,MC,Caleb Yirenkyi,48010,,https://www.rotowire.com/soccer/player/caleb-yirenkyi-48010
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,GHA,away,MC,Kwasi Sibo,46621,,https://www.rotowire.com/soccer/player/kwasi-sibo-46621
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,GHA,away,MR,Inaki Williams,20509,,https://www.rotowire.com/soccer/player/inaki-williams-20509
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,GHA,away,FW,Jordan Ayew,17366,,https://www.rotowire.com/soccer/player/jordan-ayew-17366
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,PAN,home,GK,Orlando Mosquera,28758,,https://www.rotowire.com/soccer/player/orlando-mosquera-28758
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,PAN,home,DL,Cesar Blackman,44226,,https://www.rotowire.com/soccer/player/cesar-blackman-44226
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,PAN,home,DC,Jose Cordoba,44613,,https://www.rotowire.com/soccer/player/jose-cordoba-44613
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,PAN,home,DC,Jiovany Ramos,48071,,https://www.rotowire.com/soccer/player/jiovany-ramos-48071
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,PAN,home,DC,Andres Andrade Cedeno,30357,,https://www.rotowire.com/soccer/player/andres-andrade-cedeno-30357
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,PAN,home,DR,Amir Murillo,23619,,https://www.rotowire.com/soccer/player/amir-murillo-23619
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,PAN,home,ML,Jose Luis Rodriguez,26008,,https://www.rotowire.com/soccer/player/jose-luis-rodriguez-26008
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,PAN,home,MC,Yoel Barcenas,26022,,https://www.rotowire.com/soccer/player/yoel-barcenas-26022
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,PAN,home,MC,Carlos Harvey,32543,,https://www.rotowire.com/soccer/player/carlos-harvey-32543
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,PAN,home,MR,Cristian Martinez,21265,,https://www.rotowire.com/soccer/player/cristian-martinez-21265
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,PAN,home,FW,Cecilio Waterman,48073,,https://www.rotowire.com/soccer/player/cecilio-waterman-48073
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,ENG,away,GK,Jordan Pickford,19035,,https://www.rotowire.com/soccer/player/jordan-pickford-19035
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,ENG,away,DL,Nico O'Reilly,39597,,https://www.rotowire.com/soccer/player/nico-oreilly-39597
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,ENG,away,DC,Ezri Konsa,29290,,https://www.rotowire.com/soccer/player/ezri-konsa-29290
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,ENG,away,DC,Marc Guehi,29892,,https://www.rotowire.com/soccer/player/marc-guehi-29892
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,ENG,away,DR,Djed Spence,31231,,https://www.rotowire.com/soccer/player/djed-spence-31231
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,ENG,away,DMC,Elliot Anderson,34207,OUT,https://www.rotowire.com/soccer/player/elliot-anderson-34207
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,ENG,away,DMC,Kobbie Mainoo,38145,,https://www.rotowire.com/soccer/player/kobbie-mainoo-38145
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,ENG,away,AML,Marcus Rashford,19583,,https://www.rotowire.com/soccer/player/marcus-rashford-19583
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,ENG,away,AMC,Jude Bellingham,31357,,https://www.rotowire.com/soccer/player/jude-bellingham-31357
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,ENG,away,AMR,Noni Madueke,29972,,https://www.rotowire.com/soccer/player/noni-madueke-29972
-2026-06-27T07:15:55Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,ENG,away,FW,Harry Kane,17352,,https://www.rotowire.com/soccer/player/harry-kane-17352
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,COL,home,GK,Camilo Vargas,4448,,https://www.rotowire.com/soccer/player/camilo-vargas-4448
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,COL,home,DL,Johan Mojica,25022,,https://www.rotowire.com/soccer/player/johan-mojica-25022
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,COL,home,DC,Davinson Sanchez,24928,,https://www.rotowire.com/soccer/player/davinson-sanchez-24928
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,COL,home,DC,Jhon Lucumi,28552,,https://www.rotowire.com/soccer/player/jhon-lucumi-28552
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,COL,home,DR,Daniel Munoz,41175,,https://www.rotowire.com/soccer/player/daniel-munoz-41175
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,COL,home,MC,Gustavo Puerta,38746,,https://www.rotowire.com/soccer/player/gustavo-puerta-38746
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,COL,home,MC,Jefferson Lerma,20711,,https://www.rotowire.com/soccer/player/jefferson-lerma-20711
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,COL,home,MC,Jhon Arias,22290,,https://www.rotowire.com/soccer/player/jhon-arias-22290
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,COL,home,FWL,Luis Diaz,28527,,https://www.rotowire.com/soccer/player/luis-diaz-28527
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,COL,home,FWR,James Rodriguez,17298,,https://www.rotowire.com/soccer/player/james-rodriguez-17298
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,COL,home,FW,Luis Suarez,33128,,https://www.rotowire.com/soccer/player/luis-suarez-33128
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,POR,away,GK,Diogo Costa,25195,,https://www.rotowire.com/soccer/player/diogo-costa-25195
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,POR,away,DL,Nuno Mendes,34799,,https://www.rotowire.com/soccer/player/nuno-mendes-34799
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,POR,away,DC,Renato Veiga,36576,,https://www.rotowire.com/soccer/player/renato-veiga-36576
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,POR,away,DC,Ruben Dias,21071,,https://www.rotowire.com/soccer/player/ruben-dias-21071
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,POR,away,DR,Joao Cancelo,19507,,https://www.rotowire.com/soccer/player/joao-cancelo-19507
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,POR,away,DMC,Vitinha,30864,,https://www.rotowire.com/soccer/player/vitinha-30864
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,POR,away,DMC,Joao Neves,38810,,https://www.rotowire.com/soccer/player/joao-neves-38810
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,POR,away,AML,Joao Felix,26965,,https://www.rotowire.com/soccer/player/joao-felix-26965
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,POR,away,AMC,Bruno Fernandes,21086,,https://www.rotowire.com/soccer/player/bruno-fernandes-21086
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,POR,away,AMR,Pedro Neto,25329,,https://www.rotowire.com/soccer/player/pedro-neto-25329
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,POR,away,FW,Cristiano Ronaldo,1279,,https://www.rotowire.com/soccer/player/cristiano-ronaldo-1279
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,COD,home,GK,Lionel Mpasi,46713,,https://www.rotowire.com/soccer/player/lionel-mpasi-46713
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,COD,home,DL,Arthur Masuaku,17980,,https://www.rotowire.com/soccer/player/arthur-masuaku-17980
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,COD,home,DC,Chancel Mbemba,19149,,https://www.rotowire.com/soccer/player/chancel-mbemba-19149
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,COD,home,DC,Axel Tuanzebe,19578,,https://www.rotowire.com/soccer/player/axel-tuanzebe-19578
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,COD,home,DC,Steve Kapuadi,48192,,https://www.rotowire.com/soccer/player/steve-kapuadi-48192
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,COD,home,DR,Aaron Wan-Bissaka,23609,,https://www.rotowire.com/soccer/player/aaron-wan-bissaka-23609
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,COD,home,MC,Samuel Moutoussamy,24821,,https://www.rotowire.com/soccer/player/samuel-moutoussamy-24821
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,COD,home,MC,Edo Kayembe,36171,,https://www.rotowire.com/soccer/player/edo-kayembe-36171
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,COD,home,MC,Noah Sadiki,40646,,https://www.rotowire.com/soccer/player/noah-sadiki-40646
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,COD,home,FW,Cedric Bakambu,20793,,https://www.rotowire.com/soccer/player/cedric-bakambu-20793
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,COD,home,FW,Yoane Wissa,21911,,https://www.rotowire.com/soccer/player/yoane-wissa-21911
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,UZB,away,GK,Abduvohid Ne'matov,43750,,https://www.rotowire.com/soccer/player/abduvohid-nematov-43750
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,UZB,away,DC,Abdulla Abdullaev,48155,,https://www.rotowire.com/soccer/player/abdulla-abdullaev-48155
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,UZB,away,DC,Abdukodir Khusanov,40143,,https://www.rotowire.com/soccer/player/abdukodir-khusanov-40143
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,UZB,away,DC,Rustamjon Ashurmatov,32183,,https://www.rotowire.com/soccer/player/rustamjon-ashurmatov-32183
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,UZB,away,ML,Khojiakbar Alijonov,48149,,https://www.rotowire.com/soccer/player/khojiakbar-alijonov-48149
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,UZB,away,MC,Akmal Mozgovoy,48153,,https://www.rotowire.com/soccer/player/akmal-mozgovoy-48153
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,UZB,away,MC,Otabek Shukurov,48162,,https://www.rotowire.com/soccer/player/otabek-shukurov-48162
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,UZB,away,MR,Bekhruz Karimov,48481,,https://www.rotowire.com/soccer/player/bekhruz-karimov-48481
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,UZB,away,AMC,Aziz Ganiev,48154,,https://www.rotowire.com/soccer/player/aziz-ganiev-48154
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,UZB,away,AMC,Abbosbek Fayzullaev,43681,,https://www.rotowire.com/soccer/player/abbosbek-fayzullaev-43681
-2026-06-27T07:15:55Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,UZB,away,FW,Eldor Shomurodov,33397,,https://www.rotowire.com/soccer/player/eldor-shomurodov-33397
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,ALG,home,GK,Luca Zidane,25245,,https://www.rotowire.com/soccer/player/luca-zidane-25245
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,ALG,home,DL,Rayan Ait-Nouri,25771,,https://www.rotowire.com/soccer/player/rayan-ait-nouri-25771
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,ALG,home,DC,Ramy Bensebaini,20296,,https://www.rotowire.com/soccer/player/ramy-bensebaini-20296
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,ALG,home,DC,Aissa Mandi,17651,,https://www.rotowire.com/soccer/player/aissa-mandi-17651
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,ALG,home,DR,Rafik Belghali,46855,,https://www.rotowire.com/soccer/player/rafik-belghali-46855
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,ALG,home,DMC,Hicham Boudaoui,29694,,https://www.rotowire.com/soccer/player/hicham-boudaoui-29694
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,ALG,home,DMC,Nabil Bentaleb,17376,,https://www.rotowire.com/soccer/player/nabil-bentaleb-17376
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,ALG,home,AML,Fares Chaibi,37373,,https://www.rotowire.com/soccer/player/fares-chaibi-37373
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,ALG,home,AMC,Ibrahim Maza,38959,,https://www.rotowire.com/soccer/player/ibrahim-maza-38959
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,ALG,home,AMR,Riyad Mahrez,17660,,https://www.rotowire.com/soccer/player/riyad-mahrez-17660
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,ALG,home,FW,Amine Gouiri,25372,,https://www.rotowire.com/soccer/player/amine-gouiri-25372
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,AUT,away,GK,Alexander Schlager,30296,,https://www.rotowire.com/soccer/player/alexander-schlager-30296
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,AUT,away,DL,Konrad Laimer,24583,,https://www.rotowire.com/soccer/player/konrad-laimer-24583
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,AUT,away,DC,Philipp Lienhart,24618,,https://www.rotowire.com/soccer/player/philipp-lienhart-24618
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,AUT,away,DC,Kevin Danso,23618,,https://www.rotowire.com/soccer/player/kevin-danso-23618
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,AUT,away,DR,Marco Friedl,23443,,https://www.rotowire.com/soccer/player/marco-friedl-23443
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,AUT,away,DMC,Nicolas Seiwald,33490,,https://www.rotowire.com/soccer/player/nicolas-seiwald-33490
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,AUT,away,DMC,Xaver Schlager,29096,,https://www.rotowire.com/soccer/player/xaver-schlager-29096
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,AUT,away,AML,Marcel Sabitzer,21419,,https://www.rotowire.com/soccer/player/marcel-sabitzer-21419
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,AUT,away,AMC,Michael Gregoritsch,20154,,https://www.rotowire.com/soccer/player/michael-gregoritsch-20154
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,AUT,away,AMR,Romano Schmid,27048,,https://www.rotowire.com/soccer/player/romano-schmid-27048
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,AUT,away,FW,Marko Arnautovic,17250,,https://www.rotowire.com/soccer/player/marko-arnautovic-17250
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,JOR,home,GK,Yazeed Mo'ien Hasan Abulaila,48056,,https://www.rotowire.com/soccer/player/yazeed-moien-hasan-abulaila-48056
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,JOR,home,DC,Husam Ali Mohammad Abu Dahab,48058,,https://www.rotowire.com/soccer/player/husam-ali-mohammad-abu-dahab-48058
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,JOR,home,DC,Yazan Al-Arab,48200,,https://www.rotowire.com/soccer/player/yazan-al-arab-48200
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,JOR,home,DC,Abdallah Mousa Musallam Nasib,48040,,https://www.rotowire.com/soccer/player/abdallah-mousa-musallam-nasib-48040
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,JOR,home,ML,Mohannad Abu Taha,48059,,https://www.rotowire.com/soccer/player/mohannad-abu-taha-48059
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,JOR,home,MC,Noor Al Rawabdeh,48485,,https://www.rotowire.com/soccer/player/noor-al-rawabdeh-48485
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,JOR,home,MC,Nizar Mahmoud Ahmed Al Rashdan,48039,,https://www.rotowire.com/soccer/player/nizar-mahmoud-ahmed-al-rashdan-48039
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,JOR,home,MR,Ehsan Haddad,48487,,https://www.rotowire.com/soccer/player/ehsan-haddad-48487
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,JOR,home,AMC,Mahmoud Al Mardi,48044,,https://www.rotowire.com/soccer/player/mahmoud-al-mardi-48044
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,JOR,home,AMC,Ali Olwan,48048,,https://www.rotowire.com/soccer/player/ali-olwan-48048
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,JOR,home,FW,Mousa Tamari,30444,,https://www.rotowire.com/soccer/player/mousa-tamari-30444
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,ARG,away,GK,Emiliano Martinez,17946,,https://www.rotowire.com/soccer/player/emiliano-martinez-17946
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,ARG,away,DL,Nicolas Tagliafico,25851,,https://www.rotowire.com/soccer/player/nicolas-tagliafico-25851
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,ARG,away,DC,Marcos Senesi,29956,,https://www.rotowire.com/soccer/player/marcos-senesi-29956
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,ARG,away,DC,Nicolas Otamendi,16395,,https://www.rotowire.com/soccer/player/nicolas-otamendi-16395
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,ARG,away,DR,Gonzalo Montiel,35510,,https://www.rotowire.com/soccer/player/gonzalo-montiel-35510
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,ARG,away,ML,Giovani Lo Celso,21979,,https://www.rotowire.com/soccer/player/giovani-lo-celso-21979
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,ARG,away,MC,Leandro Paredes,18459,,https://www.rotowire.com/soccer/player/leandro-paredes-18459
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,ARG,away,MC,Exequiel Palacios,30689,,https://www.rotowire.com/soccer/player/exequiel-palacios-30689
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,ARG,away,MR,Giuliano Simeone,35546,,https://www.rotowire.com/soccer/player/giuliano-simeone-35546
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,ARG,away,FW,Julian Alvarez,36366,,https://www.rotowire.com/soccer/player/julian-alvarez-36366
-2026-06-27T07:15:55Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,ARG,away,FW,Jose Lopez,47953,,https://www.rotowire.com/soccer/player/jose-lopez-47953
-2026-06-27T07:15:55Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,RSA,home,GK,Ronwen Hayden Williams,35028,,https://www.rotowire.com/soccer/player/ronwen-hayden-williams-35028
-2026-06-27T07:15:55Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,RSA,home,DL,Aubrey Modiba,48119,,https://www.rotowire.com/soccer/player/aubrey-modiba-48119
-2026-06-27T07:15:55Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,RSA,home,DC,Mbekezeli Mbokazi,47498,,https://www.rotowire.com/soccer/player/mbekezeli-mbokazi-47498
-2026-06-27T07:15:55Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,RSA,home,DC,Ime Okon,48126,,https://www.rotowire.com/soccer/player/ime-okon-48126
-2026-06-27T07:15:55Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,RSA,home,DR,Khuliso Mudau,48121,,https://www.rotowire.com/soccer/player/khuliso-mudau-48121
-2026-06-27T07:15:55Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,RSA,home,DMC,Thalente Mbatha,48110,,https://www.rotowire.com/soccer/player/thalente-mbatha-48110
-2026-06-27T07:15:55Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,RSA,home,DMC,Teboho Mokoena,34978,,https://www.rotowire.com/soccer/player/teboho-mokoena-34978
-2026-06-27T07:15:55Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,RSA,home,AML,Oswin Appollis,48120,,https://www.rotowire.com/soccer/player/oswin-appollis-48120
-2026-06-27T07:15:55Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,RSA,home,AMC,Relebohile Mofokeng,48123,,https://www.rotowire.com/soccer/player/relebohile-mofokeng-48123
-2026-06-27T07:15:55Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,RSA,home,AMR,Thapelo Maseko,48124,,https://www.rotowire.com/soccer/player/thapelo-maseko-48124
-2026-06-27T07:15:55Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,RSA,home,FW,Evidence Makgopa,34966,,https://www.rotowire.com/soccer/player/evidence-makgopa-34966
-2026-06-27T07:15:55Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,CAN,away,GK,Maxime Crepeau,19014,,https://www.rotowire.com/soccer/player/maxime-crepeau-19014
-2026-06-27T07:15:55Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,CAN,away,DL,Richie Laryea,20906,,https://www.rotowire.com/soccer/player/richie-laryea-20906
-2026-06-27T07:15:55Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,CAN,away,DC,Derek Cornelius,27254,,https://www.rotowire.com/soccer/player/derek-cornelius-27254
-2026-06-27T07:15:55Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,CAN,away,DC,Luc De Fougerolles,39974,,https://www.rotowire.com/soccer/player/luc-de-fougerolles-39974
-2026-06-27T07:15:55Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,CAN,away,DR,Alistair Johnston,30935,,https://www.rotowire.com/soccer/player/alistair-johnston-30935
-2026-06-27T07:15:55Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,CAN,away,ML,Ali Ahmed,36660,,https://www.rotowire.com/soccer/player/ali-ahmed-36660
-2026-06-27T07:15:55Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,CAN,away,MC,Nathan Saliba,34830,,https://www.rotowire.com/soccer/player/nathan-saliba-34830
-2026-06-27T07:15:55Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,CAN,away,MC,Stephen Eustaquio,27045,,https://www.rotowire.com/soccer/player/stephen-eustaquio-27045
-2026-06-27T07:15:55Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,CAN,away,MR,Tajon Buchanan,27186,,https://www.rotowire.com/soccer/player/tajon-buchanan-27186
-2026-06-27T07:15:55Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,CAN,away,FW,Jonathan David,28653,,https://www.rotowire.com/soccer/player/jonathan-david-28653
-2026-06-27T07:15:55Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,CAN,away,FW,Cyle Larin,19001,,https://www.rotowire.com/soccer/player/cyle-larin-19001
-2026-06-27T07:15:55Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,BRA,home,GK,Alisson,21124,,https://www.rotowire.com/soccer/player/alisson-21124
-2026-06-27T07:15:55Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,BRA,home,DL,Douglas,23145,,https://www.rotowire.com/soccer/player/douglas-23145
-2026-06-27T07:15:55Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,BRA,home,DC,Gabriel,23477,,https://www.rotowire.com/soccer/player/gabriel-23477
-2026-06-27T07:15:55Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,BRA,home,DC,Marquinhos,17140,,https://www.rotowire.com/soccer/player/marquinhos-17140
-2026-06-27T07:15:55Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,BRA,home,DR,Danilo,18480,,https://www.rotowire.com/soccer/player/danilo-18480
-2026-06-27T07:15:55Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,BRA,home,MC,Casemiro,18487,,https://www.rotowire.com/soccer/player/casemiro-18487
-2026-06-27T07:15:55Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,BRA,home,MC,Bruno Guimaraes,24214,,https://www.rotowire.com/soccer/player/bruno-guimaraes-24214
-2026-06-27T07:15:55Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,BRA,home,MC,Lucas Paqueta,24196,,https://www.rotowire.com/soccer/player/lucas-paqueta-24196
-2026-06-27T07:15:55Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,BRA,home,FWL,Vinicius Junior,24205,,https://www.rotowire.com/soccer/player/vinicius-junior-24205
-2026-06-27T07:15:55Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,BRA,home,FWR,Rayan,47726,,https://www.rotowire.com/soccer/player/rayan-47726
-2026-06-27T07:15:55Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,BRA,home,FW,Matheus Cunha,26633,,https://www.rotowire.com/soccer/player/matheus-cunha-26633
-2026-06-27T07:15:55Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,JPN,away,GK,Zion Suzuki,35017,,https://www.rotowire.com/soccer/player/zion-suzuki-35017
-2026-06-27T07:15:55Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,JPN,away,DC,Hiroki Ito,35522,,https://www.rotowire.com/soccer/player/hiroki-ito-35522
-2026-06-27T07:15:55Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,JPN,away,DC,Takehiro Tomiyasu,28577,,https://www.rotowire.com/soccer/player/takehiro-tomiyasu-28577
-2026-06-27T07:15:55Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,JPN,away,DC,Ko Itakura,29014,OUT,https://www.rotowire.com/soccer/player/ko-itakura-29014
-2026-06-27T07:15:55Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,JPN,away,ML,Keito Nakamura,40226,,https://www.rotowire.com/soccer/player/keito-nakamura-40226
-2026-06-27T07:15:55Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,JPN,away,MC,Kaishu Sano,43470,,https://www.rotowire.com/soccer/player/kaishu-sano-43470
-2026-06-27T07:15:55Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,JPN,away,MC,Ao Tanaka,35018,,https://www.rotowire.com/soccer/player/ao-tanaka-35018
-2026-06-27T07:15:55Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,JPN,away,MR,Ritsu Doan,28528,,https://www.rotowire.com/soccer/player/ritsu-doan-28528
-2026-06-27T07:15:55Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,JPN,away,AMC,Junya Ito,28546,,https://www.rotowire.com/soccer/player/junya-ito-28546
-2026-06-27T07:15:55Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,JPN,away,AMC,Daichi Kamada,24577,,https://www.rotowire.com/soccer/player/daichi-kamada-24577
-2026-06-27T07:15:55Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,JPN,away,FW,Ayase Ueda,29018,,https://www.rotowire.com/soccer/player/ayase-ueda-29018
-2026-06-27T07:15:55Z,June 294:30 PM ET,2026-06-29,GER,PAR,Unknown Lineup,Unknown Lineup,GER,home,M/D,Nathaniel Brown,40933,QUES,https://www.rotowire.com/soccer/player/nathaniel-brown-40933
-2026-06-27T07:15:55Z,June 294:30 PM ET,2026-06-29,GER,PAR,Unknown Lineup,Unknown Lineup,GER,home,D,Nico Schlotterbeck,27656,OUT,https://www.rotowire.com/soccer/player/nico-schlotterbeck-27656
-2026-06-27T07:15:55Z,June 294:30 PM ET,2026-06-29,GER,PAR,Unknown Lineup,Unknown Lineup,PAR,away,D,Omar Alderete,30131,QUES,https://www.rotowire.com/soccer/player/omar-alderete-30131
-2026-06-27T07:15:55Z,June 294:30 PM ET,2026-06-29,GER,PAR,Unknown Lineup,Unknown Lineup,PAR,away,M,Diego Gomez,39929,SUS,https://www.rotowire.com/soccer/player/diego-gomez-39929
-2026-06-27T07:15:55Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,NED,home,GK,Bart Verbruggen,39728,,https://www.rotowire.com/soccer/player/bart-verbruggen-39728
-2026-06-27T07:15:55Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,NED,home,DL,Micky van de Ven,35610,,https://www.rotowire.com/soccer/player/micky-van-de-ven-35610
-2026-06-27T07:15:55Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,NED,home,DC,Virgil van Dijk,19194,,https://www.rotowire.com/soccer/player/virgil-van-dijk-19194
-2026-06-27T07:15:55Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,NED,home,DC,Jan Paul van Hecke,33114,,https://www.rotowire.com/soccer/player/jan-paul-van-hecke-33114
-2026-06-27T07:15:55Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,NED,home,DR,Denzel Dumfries,26703,,https://www.rotowire.com/soccer/player/denzel-dumfries-26703
-2026-06-27T07:15:55Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,NED,home,MC,Ryan Gravenberch,30875,,https://www.rotowire.com/soccer/player/ryan-gravenberch-30875
-2026-06-27T07:15:55Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,NED,home,MC,Frenkie de Jong,26869,,https://www.rotowire.com/soccer/player/frenkie-de-jong-26869
-2026-06-27T07:15:55Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,NED,home,MC,Tijjani Reijnders,29937,,https://www.rotowire.com/soccer/player/tijjani-reijnders-29937
-2026-06-27T07:15:55Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,NED,home,FWL,Cody Gakpo,26727,,https://www.rotowire.com/soccer/player/cody-gakpo-26727
-2026-06-27T07:15:55Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,NED,home,FWR,Donyell Malen,19146,,https://www.rotowire.com/soccer/player/donyell-malen-19146
-2026-06-27T07:15:55Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,NED,home,FW,Brian Brobbey,34132,,https://www.rotowire.com/soccer/player/brian-brobbey-34132
-2026-06-27T07:15:55Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,MAR,away,GK,Bono,24650,,https://www.rotowire.com/soccer/player/bono-24650
-2026-06-27T07:15:55Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,MAR,away,DL,Noussair Mazraoui,26860,,https://www.rotowire.com/soccer/player/noussair-mazraoui-26860
-2026-06-27T07:15:55Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,MAR,away,DC,Issa Diop,20797,,https://www.rotowire.com/soccer/player/issa-diop-20797
-2026-06-27T07:15:55Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,MAR,away,DC,Chadi Riad,38141,,https://www.rotowire.com/soccer/player/chadi-riad-38141
-2026-06-27T07:15:55Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,MAR,away,DR,Achraf Hakimi,23451,,https://www.rotowire.com/soccer/player/achraf-hakimi-23451
-2026-06-27T07:15:55Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,MAR,away,DMC,Neil El Aynaoui,39689,,https://www.rotowire.com/soccer/player/neil-el-aynaoui-39689
-2026-06-27T07:15:55Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,MAR,away,DMC,Ayyoub Bouaddi,40772,,https://www.rotowire.com/soccer/player/ayyoub-bouaddi-40772
-2026-06-27T07:15:55Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,MAR,away,AML,Bilal El Khannouss,44134,,https://www.rotowire.com/soccer/player/bilal-el-khannouss-44134
-2026-06-27T07:15:55Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,MAR,away,AMC,Azzedine Ounahi,30853,,https://www.rotowire.com/soccer/player/azzedine-ounahi-30853
-2026-06-27T07:15:55Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,MAR,away,AMR,Brahim Diaz,25314,,https://www.rotowire.com/soccer/player/brahim-diaz-25314
-2026-06-27T07:15:55Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,MAR,away,FW,Ismael Saibari,37900,,https://www.rotowire.com/soccer/player/ismael-saibari-37900
-2026-06-27T07:15:55Z,June 301:00 PM ET,2026-06-30,CIV,NOR,Unknown Lineup,Unknown Lineup,CIV,home,M/D,Wilfried Singo,27627,QUES,https://www.rotowire.com/soccer/player/wilfried-singo-27627
-2026-06-27T07:15:55Z,June 301:00 PM ET,2026-06-30,CIV,NOR,Unknown Lineup,Unknown Lineup,NOR,away,M/D,Julian Ryerson,28864,OUT,https://www.rotowire.com/soccer/player/julian-ryerson-28864
-2026-06-27T07:15:55Z,June 305:00 PM ET,2026-06-30,FRA,SWE,Unknown Lineup,Unknown Lineup,FRA,home,D,William Saliba,26575,OUT,https://www.rotowire.com/soccer/player/william-saliba-26575
-2026-06-27T07:15:55Z,June 305:00 PM ET,2026-06-30,FRA,SWE,Unknown Lineup,Unknown Lineup,SWE,away,D,Victor Lindelof,18234,QUES,https://www.rotowire.com/soccer/player/victor-lindelof-18234
-2026-06-27T07:15:55Z,June 305:00 PM ET,2026-06-30,FRA,SWE,Unknown Lineup,Unknown Lineup,SWE,away,D,Isak Hien,37650,OUT,https://www.rotowire.com/soccer/player/isak-hien-37650
-2026-06-27T07:15:55Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,USA,home,GK,Matt Freese,27219,,https://www.rotowire.com/soccer/player/matt-freese-27219
-2026-06-27T07:15:55Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,USA,home,DL,Antonee Robinson,26508,,https://www.rotowire.com/soccer/player/antonee-robinson-26508
-2026-06-27T07:15:55Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,USA,home,DC,Chris Richards,27137,,https://www.rotowire.com/soccer/player/chris-richards-27137
-2026-06-27T07:15:55Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,USA,home,DC,Tim Ream,16495,,https://www.rotowire.com/soccer/player/tim-ream-16495
-2026-06-27T07:15:55Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,USA,home,DR,Alex Freeman,36467,,https://www.rotowire.com/soccer/player/alex-freeman-36467
-2026-06-27T07:15:55Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,USA,home,DMC,Malik Tillman,32665,,https://www.rotowire.com/soccer/player/malik-tillman-32665
-2026-06-27T07:15:55Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,USA,home,DMC,Tyler Adams,20822,,https://www.rotowire.com/soccer/player/tyler-adams-20822
-2026-06-27T07:15:55Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,USA,home,AML,Christian Pulisic,21016,,https://www.rotowire.com/soccer/player/christian-pulisic-21016
-2026-06-27T07:15:55Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,USA,home,AMC,Weston McKennie,23851,,https://www.rotowire.com/soccer/player/weston-mckennie-23851
-2026-06-27T07:15:55Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,USA,home,AMR,Sergino Dest,29721,,https://www.rotowire.com/soccer/player/sergino-dest-29721
-2026-06-27T07:15:55Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,USA,home,FW,Folarin Balogun,29930,,https://www.rotowire.com/soccer/player/folarin-balogun-29930
-2026-06-27T07:15:55Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,BIH,away,GK,Nikola Vasilj,33532,,https://www.rotowire.com/soccer/player/nikola-vasilj-33532
-2026-06-27T07:15:55Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,BIH,away,DL,Sead Kolasinac,17560,,https://www.rotowire.com/soccer/player/sead-kolasinac-17560
-2026-06-27T07:15:55Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,BIH,away,DC,Nikola Katic,30012,,https://www.rotowire.com/soccer/player/nikola-katic-30012
-2026-06-27T07:15:55Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,BIH,away,DC,Tarik Muharemovic,43917,,https://www.rotowire.com/soccer/player/tarik-muharemovic-43917
-2026-06-27T07:15:55Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,BIH,away,DR,Amar Memic,45164,,https://www.rotowire.com/soccer/player/amar-memic-45164
-2026-06-27T07:15:55Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,BIH,away,ML,Kerim Alajbegovic,44809,,https://www.rotowire.com/soccer/player/kerim-alajbegovic-44809
-2026-06-27T07:15:55Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,BIH,away,MC,Ivan Basic,48175,,https://www.rotowire.com/soccer/player/ivan-basic-48175
-2026-06-27T07:15:55Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,BIH,away,MC,Ivan Sunjic,31302,,https://www.rotowire.com/soccer/player/ivan-sunjic-31302
-2026-06-27T07:15:55Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,BIH,away,MR,Esmir Bajraktarevic,37604,,https://www.rotowire.com/soccer/player/esmir-bajraktarevic-37604
-2026-06-27T07:15:55Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,BIH,away,FW,Edin Dzeko,16067,,https://www.rotowire.com/soccer/player/edin-dzeko-16067
-2026-06-27T07:15:55Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,BIH,away,FW,Ermedin Demirovic,25420,,https://www.rotowire.com/soccer/player/ermedin-demirovic-25420
-2026-06-27T07:15:55Z,July 36:00 PM ET,,ARG,CPV,Unknown Lineup,Unknown Lineup,ARG,home,D,Cristian Romero,26697,OUT,https://www.rotowire.com/soccer/player/cristian-romero-26697
-2026-06-27T07:15:55Z,July 36:00 PM ET,,ARG,CPV,Unknown Lineup,Unknown Lineup,CPV,away,D,Sidny Lopes Cabral,47844,SUS,https://www.rotowire.com/soccer/player/sidny-lopes-cabral-47844
-2026-06-27T07:15:55Z,July 36:00 PM ET,,ARG,CPV,Unknown Lineup,Unknown Lineup,CPV,away,M,Telmo Arcanjo,47964,OUT,https://www.rotowire.com/soccer/player/telmo-arcanjo-47964
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,CRO,home,GK,Dominik Livakovic,22886,,https://www.rotowire.com/soccer/player/dominik-livakovic-22886
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,CRO,home,DL,Ivan Perisic,17686,,https://www.rotowire.com/soccer/player/ivan-perisic-17686
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,CRO,home,DC,Duje Caleta-Car,25940,,https://www.rotowire.com/soccer/player/duje-caleta-car-25940
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,CRO,home,DC,Josip Sutalo,33587,,https://www.rotowire.com/soccer/player/josip-sutalo-33587
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,CRO,home,DR,Josip Stanisic,34597,,https://www.rotowire.com/soccer/player/josip-stanisic-34597
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,CRO,home,DMC,Luka Modric,2105,,https://www.rotowire.com/soccer/player/luka-modric-2105
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,CRO,home,DMC,Mateo Kovacic,17032,,https://www.rotowire.com/soccer/player/mateo-kovacic-17032
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,CRO,home,AML,Martin Baturina,37763,,https://www.rotowire.com/soccer/player/martin-baturina-37763
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,CRO,home,AMC,Andrej Kramaric,18613,,https://www.rotowire.com/soccer/player/andrej-kramaric-18613
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,CRO,home,AMR,Marco Pasalic,35668,,https://www.rotowire.com/soccer/player/marco-pasalic-35668
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,CRO,home,FW,Ante Budimir,22101,,https://www.rotowire.com/soccer/player/ante-budimir-22101
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,GHA,away,GK,Benjamin Asare,48011,,https://www.rotowire.com/soccer/player/benjamin-asare-48011
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,GHA,away,DL,Gideon Mensah,35498,,https://www.rotowire.com/soccer/player/gideon-mensah-35498
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,GHA,away,DC,Jerome Opoku,32975,,https://www.rotowire.com/soccer/player/jerome-opoku-32975
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,GHA,away,DC,Jonas Adjetey,47212,,https://www.rotowire.com/soccer/player/jonas-adjetey-47212
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,GHA,away,DR,Marvin Senaya,34131,,https://www.rotowire.com/soccer/player/marvin-senaya-34131
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,GHA,away,DMC,Thomas Partey,19273,,https://www.rotowire.com/soccer/player/thomas-partey-19273
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,GHA,away,ML,Antoine Semenyo,33148,,https://www.rotowire.com/soccer/player/antoine-semenyo-33148
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,GHA,away,MC,Caleb Yirenkyi,48010,,https://www.rotowire.com/soccer/player/caleb-yirenkyi-48010
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,GHA,away,MC,Kwasi Sibo,46621,,https://www.rotowire.com/soccer/player/kwasi-sibo-46621
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,GHA,away,MR,Inaki Williams,20509,,https://www.rotowire.com/soccer/player/inaki-williams-20509
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,CRO,GHA,Predicted Lineup,Predicted Lineup,GHA,away,FW,Jordan Ayew,17366,,https://www.rotowire.com/soccer/player/jordan-ayew-17366
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,PAN,home,GK,Orlando Mosquera,28758,,https://www.rotowire.com/soccer/player/orlando-mosquera-28758
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,PAN,home,DL,Cesar Blackman,44226,,https://www.rotowire.com/soccer/player/cesar-blackman-44226
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,PAN,home,DC,Jose Cordoba,44613,,https://www.rotowire.com/soccer/player/jose-cordoba-44613
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,PAN,home,DC,Jiovany Ramos,48071,,https://www.rotowire.com/soccer/player/jiovany-ramos-48071
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,PAN,home,DC,Andres Andrade Cedeno,30357,,https://www.rotowire.com/soccer/player/andres-andrade-cedeno-30357
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,PAN,home,DR,Amir Murillo,23619,,https://www.rotowire.com/soccer/player/amir-murillo-23619
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,PAN,home,ML,Jose Luis Rodriguez,26008,,https://www.rotowire.com/soccer/player/jose-luis-rodriguez-26008
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,PAN,home,MC,Yoel Barcenas,26022,,https://www.rotowire.com/soccer/player/yoel-barcenas-26022
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,PAN,home,MC,Carlos Harvey,32543,,https://www.rotowire.com/soccer/player/carlos-harvey-32543
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,PAN,home,MR,Cristian Martinez,21265,,https://www.rotowire.com/soccer/player/cristian-martinez-21265
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,PAN,home,FW,Cecilio Waterman,48073,,https://www.rotowire.com/soccer/player/cecilio-waterman-48073
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,ENG,away,GK,Jordan Pickford,19035,,https://www.rotowire.com/soccer/player/jordan-pickford-19035
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,ENG,away,DL,Nico O'Reilly,39597,,https://www.rotowire.com/soccer/player/nico-oreilly-39597
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,ENG,away,DC,Ezri Konsa,29290,,https://www.rotowire.com/soccer/player/ezri-konsa-29290
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,ENG,away,DC,Marc Guehi,29892,,https://www.rotowire.com/soccer/player/marc-guehi-29892
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,ENG,away,DR,Djed Spence,31231,,https://www.rotowire.com/soccer/player/djed-spence-31231
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,ENG,away,DMC,Elliot Anderson,34207,OUT,https://www.rotowire.com/soccer/player/elliot-anderson-34207
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,ENG,away,DMC,Kobbie Mainoo,38145,,https://www.rotowire.com/soccer/player/kobbie-mainoo-38145
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,ENG,away,AML,Marcus Rashford,19583,,https://www.rotowire.com/soccer/player/marcus-rashford-19583
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,ENG,away,AMC,Jude Bellingham,31357,,https://www.rotowire.com/soccer/player/jude-bellingham-31357
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,ENG,away,AMR,Noni Madueke,29972,,https://www.rotowire.com/soccer/player/noni-madueke-29972
+2026-06-27T10:37:54Z,June 275:00 PM ET,2026-06-27,PAN,ENG,Predicted Lineup,Predicted Lineup,ENG,away,FW,Harry Kane,17352,,https://www.rotowire.com/soccer/player/harry-kane-17352
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,COL,home,GK,Camilo Vargas,4448,,https://www.rotowire.com/soccer/player/camilo-vargas-4448
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,COL,home,DL,Johan Mojica,25022,,https://www.rotowire.com/soccer/player/johan-mojica-25022
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,COL,home,DC,Davinson Sanchez,24928,,https://www.rotowire.com/soccer/player/davinson-sanchez-24928
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,COL,home,DC,Jhon Lucumi,28552,,https://www.rotowire.com/soccer/player/jhon-lucumi-28552
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,COL,home,DR,Daniel Munoz,41175,,https://www.rotowire.com/soccer/player/daniel-munoz-41175
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,COL,home,MC,Gustavo Puerta,38746,,https://www.rotowire.com/soccer/player/gustavo-puerta-38746
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,COL,home,MC,Jefferson Lerma,20711,,https://www.rotowire.com/soccer/player/jefferson-lerma-20711
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,COL,home,MC,Jhon Arias,22290,,https://www.rotowire.com/soccer/player/jhon-arias-22290
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,COL,home,FWL,Luis Diaz,28527,,https://www.rotowire.com/soccer/player/luis-diaz-28527
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,COL,home,FWR,James Rodriguez,17298,,https://www.rotowire.com/soccer/player/james-rodriguez-17298
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,COL,home,FW,Luis Suarez,33128,,https://www.rotowire.com/soccer/player/luis-suarez-33128
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,POR,away,GK,Diogo Costa,25195,,https://www.rotowire.com/soccer/player/diogo-costa-25195
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,POR,away,DL,Nuno Mendes,34799,,https://www.rotowire.com/soccer/player/nuno-mendes-34799
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,POR,away,DC,Renato Veiga,36576,,https://www.rotowire.com/soccer/player/renato-veiga-36576
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,POR,away,DC,Ruben Dias,21071,,https://www.rotowire.com/soccer/player/ruben-dias-21071
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,POR,away,DR,Joao Cancelo,19507,,https://www.rotowire.com/soccer/player/joao-cancelo-19507
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,POR,away,DMC,Vitinha,30864,,https://www.rotowire.com/soccer/player/vitinha-30864
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,POR,away,DMC,Joao Neves,38810,,https://www.rotowire.com/soccer/player/joao-neves-38810
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,POR,away,AML,Joao Felix,26965,,https://www.rotowire.com/soccer/player/joao-felix-26965
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,POR,away,AMC,Bruno Fernandes,21086,,https://www.rotowire.com/soccer/player/bruno-fernandes-21086
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,POR,away,AMR,Pedro Neto,25329,,https://www.rotowire.com/soccer/player/pedro-neto-25329
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COL,POR,Predicted Lineup,Predicted Lineup,POR,away,FW,Cristiano Ronaldo,1279,,https://www.rotowire.com/soccer/player/cristiano-ronaldo-1279
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,COD,home,GK,Lionel Mpasi,46713,,https://www.rotowire.com/soccer/player/lionel-mpasi-46713
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,COD,home,DL,Arthur Masuaku,17980,,https://www.rotowire.com/soccer/player/arthur-masuaku-17980
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,COD,home,DC,Chancel Mbemba,19149,,https://www.rotowire.com/soccer/player/chancel-mbemba-19149
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,COD,home,DC,Axel Tuanzebe,19578,,https://www.rotowire.com/soccer/player/axel-tuanzebe-19578
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,COD,home,DC,Steve Kapuadi,48192,,https://www.rotowire.com/soccer/player/steve-kapuadi-48192
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,COD,home,DR,Aaron Wan-Bissaka,23609,,https://www.rotowire.com/soccer/player/aaron-wan-bissaka-23609
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,COD,home,MC,Samuel Moutoussamy,24821,,https://www.rotowire.com/soccer/player/samuel-moutoussamy-24821
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,COD,home,MC,Edo Kayembe,36171,,https://www.rotowire.com/soccer/player/edo-kayembe-36171
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,COD,home,MC,Noah Sadiki,40646,,https://www.rotowire.com/soccer/player/noah-sadiki-40646
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,COD,home,FW,Cedric Bakambu,20793,,https://www.rotowire.com/soccer/player/cedric-bakambu-20793
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,COD,home,FW,Yoane Wissa,21911,,https://www.rotowire.com/soccer/player/yoane-wissa-21911
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,UZB,away,GK,Abduvohid Ne'matov,43750,,https://www.rotowire.com/soccer/player/abduvohid-nematov-43750
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,UZB,away,DC,Abdulla Abdullaev,48155,,https://www.rotowire.com/soccer/player/abdulla-abdullaev-48155
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,UZB,away,DC,Abdukodir Khusanov,40143,,https://www.rotowire.com/soccer/player/abdukodir-khusanov-40143
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,UZB,away,DC,Rustamjon Ashurmatov,32183,,https://www.rotowire.com/soccer/player/rustamjon-ashurmatov-32183
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,UZB,away,ML,Khojiakbar Alijonov,48149,,https://www.rotowire.com/soccer/player/khojiakbar-alijonov-48149
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,UZB,away,MC,Akmal Mozgovoy,48153,,https://www.rotowire.com/soccer/player/akmal-mozgovoy-48153
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,UZB,away,MC,Otabek Shukurov,48162,,https://www.rotowire.com/soccer/player/otabek-shukurov-48162
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,UZB,away,MR,Bekhruz Karimov,48481,,https://www.rotowire.com/soccer/player/bekhruz-karimov-48481
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,UZB,away,AMC,Aziz Ganiev,48154,,https://www.rotowire.com/soccer/player/aziz-ganiev-48154
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,UZB,away,AMC,Abbosbek Fayzullaev,43681,,https://www.rotowire.com/soccer/player/abbosbek-fayzullaev-43681
+2026-06-27T10:37:54Z,June 277:30 PM ET,2026-06-27,COD,UZB,Predicted Lineup,Predicted Lineup,UZB,away,FW,Eldor Shomurodov,33397,,https://www.rotowire.com/soccer/player/eldor-shomurodov-33397
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,ALG,home,GK,Luca Zidane,25245,,https://www.rotowire.com/soccer/player/luca-zidane-25245
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,ALG,home,DL,Rayan Ait-Nouri,25771,,https://www.rotowire.com/soccer/player/rayan-ait-nouri-25771
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,ALG,home,DC,Ramy Bensebaini,20296,,https://www.rotowire.com/soccer/player/ramy-bensebaini-20296
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,ALG,home,DC,Aissa Mandi,17651,,https://www.rotowire.com/soccer/player/aissa-mandi-17651
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,ALG,home,DR,Rafik Belghali,46855,,https://www.rotowire.com/soccer/player/rafik-belghali-46855
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,ALG,home,DMC,Hicham Boudaoui,29694,,https://www.rotowire.com/soccer/player/hicham-boudaoui-29694
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,ALG,home,DMC,Nabil Bentaleb,17376,,https://www.rotowire.com/soccer/player/nabil-bentaleb-17376
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,ALG,home,AML,Fares Chaibi,37373,,https://www.rotowire.com/soccer/player/fares-chaibi-37373
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,ALG,home,AMC,Ibrahim Maza,38959,,https://www.rotowire.com/soccer/player/ibrahim-maza-38959
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,ALG,home,AMR,Riyad Mahrez,17660,,https://www.rotowire.com/soccer/player/riyad-mahrez-17660
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,ALG,home,FW,Amine Gouiri,25372,,https://www.rotowire.com/soccer/player/amine-gouiri-25372
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,AUT,away,GK,Alexander Schlager,30296,,https://www.rotowire.com/soccer/player/alexander-schlager-30296
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,AUT,away,DL,Konrad Laimer,24583,,https://www.rotowire.com/soccer/player/konrad-laimer-24583
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,AUT,away,DC,Philipp Lienhart,24618,,https://www.rotowire.com/soccer/player/philipp-lienhart-24618
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,AUT,away,DC,Kevin Danso,23618,,https://www.rotowire.com/soccer/player/kevin-danso-23618
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,AUT,away,DR,Marco Friedl,23443,,https://www.rotowire.com/soccer/player/marco-friedl-23443
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,AUT,away,DMC,Nicolas Seiwald,33490,,https://www.rotowire.com/soccer/player/nicolas-seiwald-33490
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,AUT,away,DMC,Xaver Schlager,29096,,https://www.rotowire.com/soccer/player/xaver-schlager-29096
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,AUT,away,AML,Marcel Sabitzer,21419,,https://www.rotowire.com/soccer/player/marcel-sabitzer-21419
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,AUT,away,AMC,Michael Gregoritsch,20154,,https://www.rotowire.com/soccer/player/michael-gregoritsch-20154
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,AUT,away,AMR,Romano Schmid,27048,,https://www.rotowire.com/soccer/player/romano-schmid-27048
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,ALG,AUT,Predicted Lineup,Predicted Lineup,AUT,away,FW,Marko Arnautovic,17250,,https://www.rotowire.com/soccer/player/marko-arnautovic-17250
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,JOR,home,GK,Yazeed Mo'ien Hasan Abulaila,48056,,https://www.rotowire.com/soccer/player/yazeed-moien-hasan-abulaila-48056
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,JOR,home,DC,Husam Ali Mohammad Abu Dahab,48058,,https://www.rotowire.com/soccer/player/husam-ali-mohammad-abu-dahab-48058
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,JOR,home,DC,Yazan Al-Arab,48200,,https://www.rotowire.com/soccer/player/yazan-al-arab-48200
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,JOR,home,DC,Abdallah Mousa Musallam Nasib,48040,,https://www.rotowire.com/soccer/player/abdallah-mousa-musallam-nasib-48040
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,JOR,home,ML,Mohannad Abu Taha,48059,,https://www.rotowire.com/soccer/player/mohannad-abu-taha-48059
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,JOR,home,MC,Noor Al Rawabdeh,48485,,https://www.rotowire.com/soccer/player/noor-al-rawabdeh-48485
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,JOR,home,MC,Nizar Mahmoud Ahmed Al Rashdan,48039,,https://www.rotowire.com/soccer/player/nizar-mahmoud-ahmed-al-rashdan-48039
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,JOR,home,MR,Ehsan Haddad,48487,,https://www.rotowire.com/soccer/player/ehsan-haddad-48487
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,JOR,home,AMC,Mahmoud Al Mardi,48044,,https://www.rotowire.com/soccer/player/mahmoud-al-mardi-48044
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,JOR,home,AMC,Ali Olwan,48048,,https://www.rotowire.com/soccer/player/ali-olwan-48048
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,JOR,home,FW,Mousa Tamari,30444,,https://www.rotowire.com/soccer/player/mousa-tamari-30444
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,ARG,away,GK,Emiliano Martinez,17946,,https://www.rotowire.com/soccer/player/emiliano-martinez-17946
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,ARG,away,DL,Nicolas Tagliafico,25851,,https://www.rotowire.com/soccer/player/nicolas-tagliafico-25851
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,ARG,away,DC,Marcos Senesi,29956,,https://www.rotowire.com/soccer/player/marcos-senesi-29956
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,ARG,away,DC,Nicolas Otamendi,16395,,https://www.rotowire.com/soccer/player/nicolas-otamendi-16395
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,ARG,away,DR,Gonzalo Montiel,35510,,https://www.rotowire.com/soccer/player/gonzalo-montiel-35510
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,ARG,away,ML,Giovani Lo Celso,21979,,https://www.rotowire.com/soccer/player/giovani-lo-celso-21979
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,ARG,away,MC,Leandro Paredes,18459,,https://www.rotowire.com/soccer/player/leandro-paredes-18459
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,ARG,away,MC,Exequiel Palacios,30689,,https://www.rotowire.com/soccer/player/exequiel-palacios-30689
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,ARG,away,MR,Giuliano Simeone,35546,,https://www.rotowire.com/soccer/player/giuliano-simeone-35546
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,ARG,away,FW,Julian Alvarez,36366,,https://www.rotowire.com/soccer/player/julian-alvarez-36366
+2026-06-27T10:37:54Z,June 2710:00 PM ET,2026-06-27,JOR,ARG,Predicted Lineup,Predicted Lineup,ARG,away,FW,Jose Lopez,47953,,https://www.rotowire.com/soccer/player/jose-lopez-47953
+2026-06-27T10:37:54Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,RSA,home,GK,Ronwen Hayden Williams,35028,,https://www.rotowire.com/soccer/player/ronwen-hayden-williams-35028
+2026-06-27T10:37:54Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,RSA,home,DL,Aubrey Modiba,48119,,https://www.rotowire.com/soccer/player/aubrey-modiba-48119
+2026-06-27T10:37:54Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,RSA,home,DC,Mbekezeli Mbokazi,47498,,https://www.rotowire.com/soccer/player/mbekezeli-mbokazi-47498
+2026-06-27T10:37:54Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,RSA,home,DC,Ime Okon,48126,,https://www.rotowire.com/soccer/player/ime-okon-48126
+2026-06-27T10:37:54Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,RSA,home,DR,Khuliso Mudau,48121,,https://www.rotowire.com/soccer/player/khuliso-mudau-48121
+2026-06-27T10:37:54Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,RSA,home,DMC,Thalente Mbatha,48110,,https://www.rotowire.com/soccer/player/thalente-mbatha-48110
+2026-06-27T10:37:54Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,RSA,home,DMC,Teboho Mokoena,34978,,https://www.rotowire.com/soccer/player/teboho-mokoena-34978
+2026-06-27T10:37:54Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,RSA,home,AML,Oswin Appollis,48120,,https://www.rotowire.com/soccer/player/oswin-appollis-48120
+2026-06-27T10:37:54Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,RSA,home,AMC,Relebohile Mofokeng,48123,,https://www.rotowire.com/soccer/player/relebohile-mofokeng-48123
+2026-06-27T10:37:54Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,RSA,home,AMR,Thapelo Maseko,48124,,https://www.rotowire.com/soccer/player/thapelo-maseko-48124
+2026-06-27T10:37:54Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,RSA,home,FW,Evidence Makgopa,34966,,https://www.rotowire.com/soccer/player/evidence-makgopa-34966
+2026-06-27T10:37:54Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,CAN,away,GK,Maxime Crepeau,19014,,https://www.rotowire.com/soccer/player/maxime-crepeau-19014
+2026-06-27T10:37:54Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,CAN,away,DL,Richie Laryea,20906,,https://www.rotowire.com/soccer/player/richie-laryea-20906
+2026-06-27T10:37:54Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,CAN,away,DC,Derek Cornelius,27254,,https://www.rotowire.com/soccer/player/derek-cornelius-27254
+2026-06-27T10:37:54Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,CAN,away,DC,Luc De Fougerolles,39974,,https://www.rotowire.com/soccer/player/luc-de-fougerolles-39974
+2026-06-27T10:37:54Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,CAN,away,DR,Alistair Johnston,30935,,https://www.rotowire.com/soccer/player/alistair-johnston-30935
+2026-06-27T10:37:54Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,CAN,away,ML,Ali Ahmed,36660,,https://www.rotowire.com/soccer/player/ali-ahmed-36660
+2026-06-27T10:37:54Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,CAN,away,MC,Nathan Saliba,34830,,https://www.rotowire.com/soccer/player/nathan-saliba-34830
+2026-06-27T10:37:54Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,CAN,away,MC,Stephen Eustaquio,27045,,https://www.rotowire.com/soccer/player/stephen-eustaquio-27045
+2026-06-27T10:37:54Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,CAN,away,MR,Tajon Buchanan,27186,,https://www.rotowire.com/soccer/player/tajon-buchanan-27186
+2026-06-27T10:37:54Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,CAN,away,FW,Jonathan David,28653,,https://www.rotowire.com/soccer/player/jonathan-david-28653
+2026-06-27T10:37:54Z,June 283:00 PM ET,2026-06-28,RSA,CAN,Predicted Lineup,Predicted Lineup,CAN,away,FW,Cyle Larin,19001,,https://www.rotowire.com/soccer/player/cyle-larin-19001
+2026-06-27T10:37:54Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,BRA,home,GK,Alisson,21124,,https://www.rotowire.com/soccer/player/alisson-21124
+2026-06-27T10:37:54Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,BRA,home,DL,Douglas,23145,,https://www.rotowire.com/soccer/player/douglas-23145
+2026-06-27T10:37:54Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,BRA,home,DC,Gabriel,23477,,https://www.rotowire.com/soccer/player/gabriel-23477
+2026-06-27T10:37:54Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,BRA,home,DC,Marquinhos,17140,,https://www.rotowire.com/soccer/player/marquinhos-17140
+2026-06-27T10:37:54Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,BRA,home,DR,Danilo,18480,,https://www.rotowire.com/soccer/player/danilo-18480
+2026-06-27T10:37:54Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,BRA,home,MC,Casemiro,18487,,https://www.rotowire.com/soccer/player/casemiro-18487
+2026-06-27T10:37:54Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,BRA,home,MC,Bruno Guimaraes,24214,,https://www.rotowire.com/soccer/player/bruno-guimaraes-24214
+2026-06-27T10:37:54Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,BRA,home,MC,Lucas Paqueta,24196,,https://www.rotowire.com/soccer/player/lucas-paqueta-24196
+2026-06-27T10:37:54Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,BRA,home,FWL,Vinicius Junior,24205,,https://www.rotowire.com/soccer/player/vinicius-junior-24205
+2026-06-27T10:37:54Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,BRA,home,FWR,Rayan,47726,,https://www.rotowire.com/soccer/player/rayan-47726
+2026-06-27T10:37:54Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,BRA,home,FW,Matheus Cunha,26633,,https://www.rotowire.com/soccer/player/matheus-cunha-26633
+2026-06-27T10:37:54Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,JPN,away,GK,Zion Suzuki,35017,,https://www.rotowire.com/soccer/player/zion-suzuki-35017
+2026-06-27T10:37:54Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,JPN,away,DC,Hiroki Ito,35522,,https://www.rotowire.com/soccer/player/hiroki-ito-35522
+2026-06-27T10:37:54Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,JPN,away,DC,Takehiro Tomiyasu,28577,,https://www.rotowire.com/soccer/player/takehiro-tomiyasu-28577
+2026-06-27T10:37:54Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,JPN,away,DC,Ko Itakura,29014,OUT,https://www.rotowire.com/soccer/player/ko-itakura-29014
+2026-06-27T10:37:54Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,JPN,away,ML,Keito Nakamura,40226,,https://www.rotowire.com/soccer/player/keito-nakamura-40226
+2026-06-27T10:37:54Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,JPN,away,MC,Kaishu Sano,43470,,https://www.rotowire.com/soccer/player/kaishu-sano-43470
+2026-06-27T10:37:54Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,JPN,away,MC,Ao Tanaka,35018,,https://www.rotowire.com/soccer/player/ao-tanaka-35018
+2026-06-27T10:37:54Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,JPN,away,MR,Ritsu Doan,28528,,https://www.rotowire.com/soccer/player/ritsu-doan-28528
+2026-06-27T10:37:54Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,JPN,away,AMC,Junya Ito,28546,,https://www.rotowire.com/soccer/player/junya-ito-28546
+2026-06-27T10:37:54Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,JPN,away,AMC,Daichi Kamada,24577,,https://www.rotowire.com/soccer/player/daichi-kamada-24577
+2026-06-27T10:37:54Z,June 291:00 PM ET,2026-06-29,BRA,JPN,Predicted Lineup,Predicted Lineup,JPN,away,FW,Ayase Ueda,29018,,https://www.rotowire.com/soccer/player/ayase-ueda-29018
+2026-06-27T10:37:54Z,June 294:30 PM ET,2026-06-29,GER,PAR,Predicted Lineup,Predicted Lineup,GER,home,GK,Manuel Neuer,16146,,https://www.rotowire.com/soccer/player/manuel-neuer-16146
+2026-06-27T10:37:54Z,June 294:30 PM ET,2026-06-29,GER,PAR,Predicted Lineup,Predicted Lineup,GER,home,DL,Nathaniel Brown,40933,OUT,https://www.rotowire.com/soccer/player/nathaniel-brown-40933
+2026-06-27T10:37:54Z,June 294:30 PM ET,2026-06-29,GER,PAR,Predicted Lineup,Predicted Lineup,GER,home,DC,Antonio Rudiger,19179,,https://www.rotowire.com/soccer/player/antonio-rudiger-19179
+2026-06-27T10:37:54Z,June 294:30 PM ET,2026-06-29,GER,PAR,Predicted Lineup,Predicted Lineup,GER,home,DC,Jonathan Tah,19360,,https://www.rotowire.com/soccer/player/jonathan-tah-19360
+2026-06-27T10:37:54Z,June 294:30 PM ET,2026-06-29,GER,PAR,Predicted Lineup,Predicted Lineup,GER,home,DR,Joshua Kimmich,19296,,https://www.rotowire.com/soccer/player/joshua-kimmich-19296
+2026-06-27T10:37:54Z,June 294:30 PM ET,2026-06-29,GER,PAR,Predicted Lineup,Predicted Lineup,GER,home,DMC,Felix Nmecha,27147,,https://www.rotowire.com/soccer/player/felix-nmecha-27147
+2026-06-27T10:37:54Z,June 294:30 PM ET,2026-06-29,GER,PAR,Predicted Lineup,Predicted Lineup,GER,home,DMC,Aleksandar Pavlovic,39554,,https://www.rotowire.com/soccer/player/aleksandar-pavlovic-39554
+2026-06-27T10:37:54Z,June 294:30 PM ET,2026-06-29,GER,PAR,Predicted Lineup,Predicted Lineup,GER,home,AML,Florian Wirtz,32412,,https://www.rotowire.com/soccer/player/florian-wirtz-32412
+2026-06-27T10:37:54Z,June 294:30 PM ET,2026-06-29,GER,PAR,Predicted Lineup,Predicted Lineup,GER,home,AMC,Jamal Musiala,32430,,https://www.rotowire.com/soccer/player/jamal-musiala-32430
+2026-06-27T10:37:54Z,June 294:30 PM ET,2026-06-29,GER,PAR,Predicted Lineup,Predicted Lineup,GER,home,AMR,Leroy Sane,18473,,https://www.rotowire.com/soccer/player/leroy-sane-18473
+2026-06-27T10:37:54Z,June 294:30 PM ET,2026-06-29,GER,PAR,Predicted Lineup,Predicted Lineup,GER,home,FW,Kai Havertz,23157,,https://www.rotowire.com/soccer/player/kai-havertz-23157
+2026-06-27T10:37:54Z,June 294:30 PM ET,2026-06-29,GER,PAR,Predicted Lineup,Predicted Lineup,PAR,away,GK,Orlando Gill,48082,,https://www.rotowire.com/soccer/player/orlando-gill-48082
+2026-06-27T10:37:54Z,June 294:30 PM ET,2026-06-29,GER,PAR,Predicted Lineup,Predicted Lineup,PAR,away,DL,Junior Alonso,23460,,https://www.rotowire.com/soccer/player/junior-alonso-23460
+2026-06-27T10:37:54Z,June 294:30 PM ET,2026-06-29,GER,PAR,Predicted Lineup,Predicted Lineup,PAR,away,DC,Victor Gustavo Velazquez,27626,,https://www.rotowire.com/soccer/player/victor-gustavo-velazquez-27626
+2026-06-27T10:37:54Z,June 294:30 PM ET,2026-06-29,GER,PAR,Predicted Lineup,Predicted Lineup,PAR,away,DC,Gustavo Gomez,21256,,https://www.rotowire.com/soccer/player/gustavo-gomez-21256
+2026-06-27T10:37:54Z,June 294:30 PM ET,2026-06-29,GER,PAR,Predicted Lineup,Predicted Lineup,PAR,away,DR,Juan Jose Caceres,48081,,https://www.rotowire.com/soccer/player/juan-jose-caceres-48081
+2026-06-27T10:37:54Z,June 294:30 PM ET,2026-06-29,GER,PAR,Predicted Lineup,Predicted Lineup,PAR,away,ML,Mauricio,28887,,https://www.rotowire.com/soccer/player/mauricio-28887
+2026-06-27T10:37:54Z,June 294:30 PM ET,2026-06-29,GER,PAR,Predicted Lineup,Predicted Lineup,PAR,away,MC,Andres Cubas,23445,,https://www.rotowire.com/soccer/player/andres-cubas-23445
+2026-06-27T10:37:54Z,June 294:30 PM ET,2026-06-29,GER,PAR,Predicted Lineup,Predicted Lineup,PAR,away,MC,Matias Galarza,47876,,https://www.rotowire.com/soccer/player/matias-galarza-47876
+2026-06-27T10:37:54Z,June 294:30 PM ET,2026-06-29,GER,PAR,Predicted Lineup,Predicted Lineup,PAR,away,MR,Miguel Almiron,13443,,https://www.rotowire.com/soccer/player/miguel-almiron-13443
+2026-06-27T10:37:54Z,June 294:30 PM ET,2026-06-29,GER,PAR,Predicted Lineup,Predicted Lineup,PAR,away,FW,Gabriel Avalos,48077,,https://www.rotowire.com/soccer/player/gabriel-avalos-48077
+2026-06-27T10:37:54Z,June 294:30 PM ET,2026-06-29,GER,PAR,Predicted Lineup,Predicted Lineup,PAR,away,FW,Julio Enciso,37012,,https://www.rotowire.com/soccer/player/julio-enciso-37012
+2026-06-27T10:37:54Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,NED,home,GK,Bart Verbruggen,39728,,https://www.rotowire.com/soccer/player/bart-verbruggen-39728
+2026-06-27T10:37:54Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,NED,home,DL,Micky van de Ven,35610,,https://www.rotowire.com/soccer/player/micky-van-de-ven-35610
+2026-06-27T10:37:54Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,NED,home,DC,Jan Paul van Hecke,33114,,https://www.rotowire.com/soccer/player/jan-paul-van-hecke-33114
+2026-06-27T10:37:54Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,NED,home,DC,Virgil van Dijk,19194,,https://www.rotowire.com/soccer/player/virgil-van-dijk-19194
+2026-06-27T10:37:54Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,NED,home,DR,Denzel Dumfries,26703,,https://www.rotowire.com/soccer/player/denzel-dumfries-26703
+2026-06-27T10:37:54Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,NED,home,MC,Ryan Gravenberch,30875,,https://www.rotowire.com/soccer/player/ryan-gravenberch-30875
+2026-06-27T10:37:54Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,NED,home,MC,Frenkie de Jong,26869,,https://www.rotowire.com/soccer/player/frenkie-de-jong-26869
+2026-06-27T10:37:54Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,NED,home,MC,Tijjani Reijnders,29937,,https://www.rotowire.com/soccer/player/tijjani-reijnders-29937
+2026-06-27T10:37:54Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,NED,home,FWL,Cody Gakpo,26727,,https://www.rotowire.com/soccer/player/cody-gakpo-26727
+2026-06-27T10:37:54Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,NED,home,FWR,Donyell Malen,19146,,https://www.rotowire.com/soccer/player/donyell-malen-19146
+2026-06-27T10:37:54Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,NED,home,FW,Brian Brobbey,34132,,https://www.rotowire.com/soccer/player/brian-brobbey-34132
+2026-06-27T10:37:54Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,MAR,away,GK,Bono,24650,,https://www.rotowire.com/soccer/player/bono-24650
+2026-06-27T10:37:54Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,MAR,away,DL,Noussair Mazraoui,26860,,https://www.rotowire.com/soccer/player/noussair-mazraoui-26860
+2026-06-27T10:37:54Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,MAR,away,DC,Chadi Riad,38141,,https://www.rotowire.com/soccer/player/chadi-riad-38141
+2026-06-27T10:37:54Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,MAR,away,DC,Issa Diop,20797,,https://www.rotowire.com/soccer/player/issa-diop-20797
+2026-06-27T10:37:54Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,MAR,away,DR,Achraf Hakimi,23451,,https://www.rotowire.com/soccer/player/achraf-hakimi-23451
+2026-06-27T10:37:54Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,MAR,away,DMC,Neil El Aynaoui,39689,,https://www.rotowire.com/soccer/player/neil-el-aynaoui-39689
+2026-06-27T10:37:54Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,MAR,away,DMC,Ayyoub Bouaddi,40772,,https://www.rotowire.com/soccer/player/ayyoub-bouaddi-40772
+2026-06-27T10:37:54Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,MAR,away,AML,Bilal El Khannouss,44134,,https://www.rotowire.com/soccer/player/bilal-el-khannouss-44134
+2026-06-27T10:37:54Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,MAR,away,AMC,Azzedine Ounahi,30853,,https://www.rotowire.com/soccer/player/azzedine-ounahi-30853
+2026-06-27T10:37:54Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,MAR,away,AMR,Brahim Diaz,25314,,https://www.rotowire.com/soccer/player/brahim-diaz-25314
+2026-06-27T10:37:54Z,June 299:00 PM ET,2026-06-29,NED,MAR,Predicted Lineup,Predicted Lineup,MAR,away,FW,Ismael Saibari,37900,,https://www.rotowire.com/soccer/player/ismael-saibari-37900
+2026-06-27T10:37:54Z,June 301:00 PM ET,2026-06-30,CIV,NOR,Predicted Lineup,Predicted Lineup,CIV,home,GK,Yahia Fofana,37069,,https://www.rotowire.com/soccer/player/yahia-fofana-37069
+2026-06-27T10:37:54Z,June 301:00 PM ET,2026-06-30,CIV,NOR,Predicted Lineup,Predicted Lineup,CIV,home,DL,Ghislain Konan,26529,,https://www.rotowire.com/soccer/player/ghislain-konan-26529
+2026-06-27T10:37:54Z,June 301:00 PM ET,2026-06-30,CIV,NOR,Predicted Lineup,Predicted Lineup,CIV,home,DC,Odilon Kossounou,29818,,https://www.rotowire.com/soccer/player/odilon-kossounou-29818
+2026-06-27T10:37:54Z,June 301:00 PM ET,2026-06-30,CIV,NOR,Predicted Lineup,Predicted Lineup,CIV,home,DC,Ousmane Diomande,38747,,https://www.rotowire.com/soccer/player/ousmane-diomande-38747
+2026-06-27T10:37:54Z,June 301:00 PM ET,2026-06-30,CIV,NOR,Predicted Lineup,Predicted Lineup,CIV,home,DR,Guela Doue,37601,,https://www.rotowire.com/soccer/player/guela-doue-37601
+2026-06-27T10:37:54Z,June 301:00 PM ET,2026-06-30,CIV,NOR,Predicted Lineup,Predicted Lineup,CIV,home,DMC,Ibrahim Sangare,21982,,https://www.rotowire.com/soccer/player/ibrahim-sangare-21982
+2026-06-27T10:37:54Z,June 301:00 PM ET,2026-06-30,CIV,NOR,Predicted Lineup,Predicted Lineup,CIV,home,ML,Yan Diomande,46409,,https://www.rotowire.com/soccer/player/yan-diomande-46409
+2026-06-27T10:37:54Z,June 301:00 PM ET,2026-06-30,CIV,NOR,Predicted Lineup,Predicted Lineup,CIV,home,MC,Christ Inao Oulai,47978,,https://www.rotowire.com/soccer/player/christ-inao-oulai-47978
+2026-06-27T10:37:54Z,June 301:00 PM ET,2026-06-30,CIV,NOR,Predicted Lineup,Predicted Lineup,CIV,home,MC,Franck Kessie,21954,,https://www.rotowire.com/soccer/player/franck-kessie-21954
+2026-06-27T10:37:54Z,June 301:00 PM ET,2026-06-30,CIV,NOR,Predicted Lineup,Predicted Lineup,CIV,home,MR,Amad Diallo,30618,,https://www.rotowire.com/soccer/player/amad-diallo-30618
+2026-06-27T10:37:54Z,June 301:00 PM ET,2026-06-30,CIV,NOR,Predicted Lineup,Predicted Lineup,CIV,home,FW,Nicolas Pepe,21915,,https://www.rotowire.com/soccer/player/nicolas-pepe-21915
+2026-06-27T10:37:54Z,June 301:00 PM ET,2026-06-30,CIV,NOR,Predicted Lineup,Predicted Lineup,NOR,away,GK,Orjan Nyland,19899,,https://www.rotowire.com/soccer/player/orjan-nyland-19899
+2026-06-27T10:37:54Z,June 301:00 PM ET,2026-06-30,CIV,NOR,Predicted Lineup,Predicted Lineup,NOR,away,DL,David Moller Wolfe,44313,,https://www.rotowire.com/soccer/player/david-moller-wolfe-44313
+2026-06-27T10:37:54Z,June 301:00 PM ET,2026-06-30,CIV,NOR,Predicted Lineup,Predicted Lineup,NOR,away,DC,Torbjorn Heggem,44621,,https://www.rotowire.com/soccer/player/torbjorn-heggem-44621
+2026-06-27T10:37:54Z,June 301:00 PM ET,2026-06-30,CIV,NOR,Predicted Lineup,Predicted Lineup,NOR,away,DC,Kristoffer Ajer,22869,,https://www.rotowire.com/soccer/player/kristoffer-ajer-22869
+2026-06-27T10:37:54Z,June 301:00 PM ET,2026-06-30,CIV,NOR,Predicted Lineup,Predicted Lineup,NOR,away,DR,Julian Ryerson,28864,OUT,https://www.rotowire.com/soccer/player/julian-ryerson-28864
+2026-06-27T10:37:54Z,June 301:00 PM ET,2026-06-30,CIV,NOR,Predicted Lineup,Predicted Lineup,NOR,away,MC,Sander Berge,29740,,https://www.rotowire.com/soccer/player/sander-berge-29740
+2026-06-27T10:37:54Z,June 301:00 PM ET,2026-06-30,CIV,NOR,Predicted Lineup,Predicted Lineup,NOR,away,MC,Fredrik Aursnes,33859,,https://www.rotowire.com/soccer/player/fredrik-aursnes-33859
+2026-06-27T10:37:54Z,June 301:00 PM ET,2026-06-30,CIV,NOR,Predicted Lineup,Predicted Lineup,NOR,away,MC,Martin Odegaard,18746,,https://www.rotowire.com/soccer/player/martin-odegaard-18746
+2026-06-27T10:37:54Z,June 301:00 PM ET,2026-06-30,CIV,NOR,Predicted Lineup,Predicted Lineup,NOR,away,FWL,Antonio Nusa,35612,,https://www.rotowire.com/soccer/player/antonio-nusa-35612
+2026-06-27T10:37:54Z,June 301:00 PM ET,2026-06-30,CIV,NOR,Predicted Lineup,Predicted Lineup,NOR,away,FWR,Alexander Sorloth,25428,,https://www.rotowire.com/soccer/player/alexander-sorloth-25428
+2026-06-27T10:37:54Z,June 301:00 PM ET,2026-06-30,CIV,NOR,Predicted Lineup,Predicted Lineup,NOR,away,FW,Erling Haaland,29664,,https://www.rotowire.com/soccer/player/erling-haaland-29664
+2026-06-27T10:37:54Z,June 305:00 PM ET,2026-06-30,FRA,SWE,Predicted Lineup,Predicted Lineup,FRA,home,GK,Mike Maignan,18437,,https://www.rotowire.com/soccer/player/mike-maignan-18437
+2026-06-27T10:37:54Z,June 305:00 PM ET,2026-06-30,FRA,SWE,Predicted Lineup,Predicted Lineup,FRA,home,DL,Theo Hernandez,22398,,https://www.rotowire.com/soccer/player/theo-hernandez-22398
+2026-06-27T10:37:54Z,June 305:00 PM ET,2026-06-30,FRA,SWE,Predicted Lineup,Predicted Lineup,FRA,home,DC,Dayot Upamecano,23324,,https://www.rotowire.com/soccer/player/dayot-upamecano-23324
+2026-06-27T10:37:54Z,June 305:00 PM ET,2026-06-30,FRA,SWE,Predicted Lineup,Predicted Lineup,FRA,home,DC,William Saliba,26575,OUT,https://www.rotowire.com/soccer/player/william-saliba-26575
+2026-06-27T10:37:54Z,June 305:00 PM ET,2026-06-30,FRA,SWE,Predicted Lineup,Predicted Lineup,FRA,home,DR,Jules Kounde,25317,,https://www.rotowire.com/soccer/player/jules-kounde-25317
+2026-06-27T10:37:54Z,June 305:00 PM ET,2026-06-30,FRA,SWE,Predicted Lineup,Predicted Lineup,FRA,home,DMC,Aurelien Tchouameni,26546,,https://www.rotowire.com/soccer/player/aurelien-tchouameni-26546
+2026-06-27T10:37:54Z,June 305:00 PM ET,2026-06-30,FRA,SWE,Predicted Lineup,Predicted Lineup,FRA,home,DMC,Manu Kone,27124,,https://www.rotowire.com/soccer/player/manu-kone-27124
+2026-06-27T10:37:54Z,June 305:00 PM ET,2026-06-30,FRA,SWE,Predicted Lineup,Predicted Lineup,FRA,home,AML,Desire Doue,36484,,https://www.rotowire.com/soccer/player/desire-doue-36484
+2026-06-27T10:37:54Z,June 305:00 PM ET,2026-06-30,FRA,SWE,Predicted Lineup,Predicted Lineup,FRA,home,AMC,Michael Olise,31393,,https://www.rotowire.com/soccer/player/michael-olise-31393
+2026-06-27T10:37:54Z,June 305:00 PM ET,2026-06-30,FRA,SWE,Predicted Lineup,Predicted Lineup,FRA,home,AMR,Ousmane Dembele,20403,,https://www.rotowire.com/soccer/player/ousmane-dembele-20403
+2026-06-27T10:37:54Z,June 305:00 PM ET,2026-06-30,FRA,SWE,Predicted Lineup,Predicted Lineup,FRA,home,FW,Kylian Mbappe,20285,,https://www.rotowire.com/soccer/player/kylian-mbappe-20285
+2026-06-27T10:37:54Z,June 305:00 PM ET,2026-06-30,FRA,SWE,Predicted Lineup,Predicted Lineup,SWE,away,GK,Kristoffer Nordfeldt,19164,,https://www.rotowire.com/soccer/player/kristoffer-nordfeldt-19164
+2026-06-27T10:37:54Z,June 305:00 PM ET,2026-06-30,FRA,SWE,Predicted Lineup,Predicted Lineup,SWE,away,DC,Victor Lindelof,18234,OUT,https://www.rotowire.com/soccer/player/victor-lindelof-18234
+2026-06-27T10:37:54Z,June 305:00 PM ET,2026-06-30,FRA,SWE,Predicted Lineup,Predicted Lineup,SWE,away,DC,Gustaf Lagerbielke,40531,,https://www.rotowire.com/soccer/player/gustaf-lagerbielke-40531
+2026-06-27T10:37:54Z,June 305:00 PM ET,2026-06-30,FRA,SWE,Predicted Lineup,Predicted Lineup,SWE,away,DC,Gabriel Gudmundsson,35627,,https://www.rotowire.com/soccer/player/gabriel-gudmundsson-35627
+2026-06-27T10:37:54Z,June 305:00 PM ET,2026-06-30,FRA,SWE,Predicted Lineup,Predicted Lineup,SWE,away,ML,Elliot Stroud,48188,,https://www.rotowire.com/soccer/player/elliot-stroud-48188
+2026-06-27T10:37:54Z,June 305:00 PM ET,2026-06-30,FRA,SWE,Predicted Lineup,Predicted Lineup,SWE,away,MC,Jesper Karlstrom,44015,,https://www.rotowire.com/soccer/player/jesper-karlstrom-44015
+2026-06-27T10:37:54Z,June 305:00 PM ET,2026-06-30,FRA,SWE,Predicted Lineup,Predicted Lineup,SWE,away,MC,Yasin Ayari,38732,,https://www.rotowire.com/soccer/player/yasin-ayari-38732
+2026-06-27T10:37:54Z,June 305:00 PM ET,2026-06-30,FRA,SWE,Predicted Lineup,Predicted Lineup,SWE,away,MR,Alexander Bernhardsson,43990,,https://www.rotowire.com/soccer/player/alexander-bernhardsson-43990
+2026-06-27T10:37:54Z,June 305:00 PM ET,2026-06-30,FRA,SWE,Predicted Lineup,Predicted Lineup,SWE,away,FWL,Alexander Isak,23369,,https://www.rotowire.com/soccer/player/alexander-isak-23369
+2026-06-27T10:37:54Z,June 305:00 PM ET,2026-06-30,FRA,SWE,Predicted Lineup,Predicted Lineup,SWE,away,FWR,Anthony Elanga,34595,,https://www.rotowire.com/soccer/player/anthony-elanga-34595
+2026-06-27T10:37:54Z,June 305:00 PM ET,2026-06-30,FRA,SWE,Predicted Lineup,Predicted Lineup,SWE,away,FW,Viktor Gyokeres,26991,,https://www.rotowire.com/soccer/player/viktor-gyokeres-26991
+2026-06-27T10:37:54Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,USA,home,GK,Matt Freese,27219,,https://www.rotowire.com/soccer/player/matt-freese-27219
+2026-06-27T10:37:54Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,USA,home,DL,Antonee Robinson,26508,,https://www.rotowire.com/soccer/player/antonee-robinson-26508
+2026-06-27T10:37:54Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,USA,home,DC,Chris Richards,27137,,https://www.rotowire.com/soccer/player/chris-richards-27137
+2026-06-27T10:37:54Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,USA,home,DC,Tim Ream,16495,,https://www.rotowire.com/soccer/player/tim-ream-16495
+2026-06-27T10:37:54Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,USA,home,DR,Alex Freeman,36467,,https://www.rotowire.com/soccer/player/alex-freeman-36467
+2026-06-27T10:37:54Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,USA,home,DMC,Malik Tillman,32665,,https://www.rotowire.com/soccer/player/malik-tillman-32665
+2026-06-27T10:37:54Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,USA,home,DMC,Tyler Adams,20822,,https://www.rotowire.com/soccer/player/tyler-adams-20822
+2026-06-27T10:37:54Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,USA,home,AML,Christian Pulisic,21016,,https://www.rotowire.com/soccer/player/christian-pulisic-21016
+2026-06-27T10:37:54Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,USA,home,AMC,Weston McKennie,23851,,https://www.rotowire.com/soccer/player/weston-mckennie-23851
+2026-06-27T10:37:54Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,USA,home,AMR,Sergino Dest,29721,,https://www.rotowire.com/soccer/player/sergino-dest-29721
+2026-06-27T10:37:54Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,USA,home,FW,Folarin Balogun,29930,,https://www.rotowire.com/soccer/player/folarin-balogun-29930
+2026-06-27T10:37:54Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,BIH,away,GK,Nikola Vasilj,33532,,https://www.rotowire.com/soccer/player/nikola-vasilj-33532
+2026-06-27T10:37:54Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,BIH,away,DL,Sead Kolasinac,17560,,https://www.rotowire.com/soccer/player/sead-kolasinac-17560
+2026-06-27T10:37:54Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,BIH,away,DC,Nikola Katic,30012,,https://www.rotowire.com/soccer/player/nikola-katic-30012
+2026-06-27T10:37:54Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,BIH,away,DC,Tarik Muharemovic,43917,,https://www.rotowire.com/soccer/player/tarik-muharemovic-43917
+2026-06-27T10:37:54Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,BIH,away,DR,Amar Memic,45164,,https://www.rotowire.com/soccer/player/amar-memic-45164
+2026-06-27T10:37:54Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,BIH,away,ML,Kerim Alajbegovic,44809,,https://www.rotowire.com/soccer/player/kerim-alajbegovic-44809
+2026-06-27T10:37:54Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,BIH,away,MC,Ivan Basic,48175,,https://www.rotowire.com/soccer/player/ivan-basic-48175
+2026-06-27T10:37:54Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,BIH,away,MC,Ivan Sunjic,31302,,https://www.rotowire.com/soccer/player/ivan-sunjic-31302
+2026-06-27T10:37:54Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,BIH,away,MR,Esmir Bajraktarevic,37604,,https://www.rotowire.com/soccer/player/esmir-bajraktarevic-37604
+2026-06-27T10:37:54Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,BIH,away,FW,Edin Dzeko,16067,,https://www.rotowire.com/soccer/player/edin-dzeko-16067
+2026-06-27T10:37:54Z,July 18:00 PM ET,2026-07-18,USA,BIH,Predicted Lineup,Predicted Lineup,BIH,away,FW,Ermedin Demirovic,25420,,https://www.rotowire.com/soccer/player/ermedin-demirovic-25420
+2026-06-27T10:37:54Z,July 32:00 PM ET,,AUS,EGY,Unknown Lineup,Unknown Lineup,AUS,home,M,Jacob Italiano,38380,OUT,https://www.rotowire.com/soccer/player/jacob-italiano-38380
+2026-06-27T10:37:54Z,July 32:00 PM ET,,AUS,EGY,Unknown Lineup,Unknown Lineup,AUS,home,F,Mathew Leckie,17572,OUT,https://www.rotowire.com/soccer/player/mathew-leckie-17572
+2026-06-27T10:37:54Z,July 32:00 PM ET,,AUS,EGY,Unknown Lineup,Unknown Lineup,EGY,away,D,Mohamed Abdelmonem,44133,QUES,https://www.rotowire.com/soccer/player/mohamed-abdelmonem-44133
+2026-06-27T10:37:54Z,July 32:00 PM ET,,AUS,EGY,Unknown Lineup,Unknown Lineup,EGY,away,F,Mohamed Salah,17384,QUES,https://www.rotowire.com/soccer/player/mohamed-salah-17384
+2026-06-27T10:37:54Z,July 32:00 PM ET,,AUS,EGY,Unknown Lineup,Unknown Lineup,EGY,away,M,Mohanad Lasheen,48000,SUS,https://www.rotowire.com/soccer/player/mohanad-lasheen-48000
+2026-06-27T10:37:54Z,July 32:00 PM ET,,AUS,EGY,Unknown Lineup,Unknown Lineup,EGY,away,M/D,Hamdy Fathy,48002,OUT,https://www.rotowire.com/soccer/player/hamdy-fathy-48002
+2026-06-27T10:37:54Z,July 32:00 PM ET,,AUS,EGY,Unknown Lineup,Unknown Lineup,EGY,away,D,Hossam Abdelmaguid,43618,OUT,https://www.rotowire.com/soccer/player/hossam-abdelmaguid-43618
+2026-06-27T10:37:54Z,July 36:00 PM ET,,ARG,CPV,Unknown Lineup,Predicted Lineup,ARG,home,D,Cristian Romero,26697,OUT,https://www.rotowire.com/soccer/player/cristian-romero-26697
+2026-06-27T10:37:54Z,July 36:00 PM ET,,ARG,CPV,Unknown Lineup,Predicted Lineup,CPV,away,GK,Vozinha,47971,,https://www.rotowire.com/soccer/player/vozinha-47971
+2026-06-27T10:37:54Z,July 36:00 PM ET,,ARG,CPV,Unknown Lineup,Predicted Lineup,CPV,away,DL,Sidny Lopes Cabral,47844,,https://www.rotowire.com/soccer/player/sidny-lopes-cabral-47844
+2026-06-27T10:37:54Z,July 36:00 PM ET,,ARG,CPV,Unknown Lineup,Predicted Lineup,CPV,away,DC,Diney,47967,,https://www.rotowire.com/soccer/player/diney-47967
+2026-06-27T10:37:54Z,July 36:00 PM ET,,ARG,CPV,Unknown Lineup,Predicted Lineup,CPV,away,DC,Pico,48164,,https://www.rotowire.com/soccer/player/pico-48164
+2026-06-27T10:37:54Z,July 36:00 PM ET,,ARG,CPV,Unknown Lineup,Predicted Lineup,CPV,away,DR,Steven Moreira,20394,,https://www.rotowire.com/soccer/player/steven-moreira-20394
+2026-06-27T10:37:54Z,July 36:00 PM ET,,ARG,CPV,Unknown Lineup,Predicted Lineup,CPV,away,DMC,Kevin Pina,47969,,https://www.rotowire.com/soccer/player/kevin-pina-47969
+2026-06-27T10:37:54Z,July 36:00 PM ET,,ARG,CPV,Unknown Lineup,Predicted Lineup,CPV,away,ML,Willy Semedo,47973,,https://www.rotowire.com/soccer/player/willy-semedo-47973
+2026-06-27T10:37:54Z,July 36:00 PM ET,,ARG,CPV,Unknown Lineup,Predicted Lineup,CPV,away,MC,Deroy Duarte,44352,,https://www.rotowire.com/soccer/player/deroy-duarte-44352
+2026-06-27T10:37:54Z,July 36:00 PM ET,,ARG,CPV,Unknown Lineup,Predicted Lineup,CPV,away,MC,Jamiro Monteiro,27637,,https://www.rotowire.com/soccer/player/jamiro-monteiro-27637
+2026-06-27T10:37:54Z,July 36:00 PM ET,,ARG,CPV,Unknown Lineup,Predicted Lineup,CPV,away,MR,Ryan Mendes,22438,,https://www.rotowire.com/soccer/player/ryan-mendes-22438
+2026-06-27T10:37:54Z,July 36:00 PM ET,,ARG,CPV,Unknown Lineup,Predicted Lineup,CPV,away,FW,Dailon Livramento,43802,,https://www.rotowire.com/soccer/player/dailon-livramento-43802
