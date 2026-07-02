@@ -1,6 +1,6 @@
 [
   {
-    "fetched_at": "2026-07-02T10:53:02Z",
+    "fetched_at": "2026-07-02T14:49:44Z",
     "match_time": "July 23:00 PM ET",
     "match_date": "2026-07-23",
     "home_team": "ESP",
@@ -9,9 +9,9 @@
     "away_status": "Predicted Lineup",
     "weather": "No weather info available",
     "odds": {
-      "-315": "-315",
-      "+423": "+423",
-      "+900": "+900"
+      "-360": "-360",
+      "+470": "+470",
+      "+1025": "+1025"
     },
     "home_players": [
       {
@@ -173,7 +173,7 @@
     ]
   },
   {
-    "fetched_at": "2026-07-02T10:53:02Z",
+    "fetched_at": "2026-07-02T14:49:44Z",
     "match_time": "July 27:00 PM ET",
     "match_date": "2026-07-27",
     "home_team": "POR",
@@ -182,9 +182,9 @@
     "away_status": "Predicted Lineup",
     "weather": "33% Precipitation 81°  Wind 11 mph 250.0",
     "odds": {
-      "-143": "-143",
-      "+275": "+275",
-      "+407": "+407"
+      "-142": "-142",
+      "+272": "+272",
+      "+400": "+400"
     },
     "home_players": [
       {
@@ -346,18 +346,18 @@
     ]
   },
   {
-    "fetched_at": "2026-07-02T10:53:02Z",
+    "fetched_at": "2026-07-02T14:49:44Z",
     "match_time": "July 211:00 PM ET",
     "match_date": "2026-07-21",
     "home_team": "SUI",
     "away_team": "ALG",
     "home_status": "Predicted Lineup",
     "away_status": "Predicted Lineup",
-    "weather": "39% Rain 60°  Wind 5 mph 80.0",
+    "weather": "27% Rain 60°  Wind 5 mph 80.0",
     "odds": {
-      "+100": "+100",
-      "+222": "+222",
-      "+313": "+313"
+      "-107": "-107",
+      "+223": "+223",
+      "+337": "+337"
     },
     "home_players": [
       {
@@ -392,7 +392,7 @@
         "pos": "DR",
         "name": "Silvan Widmer",
         "player_id": "20801",
-        "status": "OUT",
+        "status": null,
         "profile_url": "https://www.rotowire.com/soccer/player/silvan-widmer-20801"
       },
       {
@@ -519,7 +519,7 @@
     ]
   },
   {
-    "fetched_at": "2026-07-02T10:53:02Z",
+    "fetched_at": "2026-07-02T14:49:44Z",
     "match_time": "July 32:00 PM ET",
     "match_date": null,
     "home_team": "AUS",
@@ -528,8 +528,8 @@
     "away_status": "Predicted Lineup",
     "weather": "No weather info available",
     "odds": {
-      "+233": "+233",
-      "+183": "+183",
+      "+235": "+235",
+      "+185": "+185",
       "+147": "+147"
     },
     "home_players": [
@@ -692,7 +692,7 @@
     ]
   },
   {
-    "fetched_at": "2026-07-02T10:53:02Z",
+    "fetched_at": "2026-07-02T14:49:44Z",
     "match_time": "July 36:00 PM ET",
     "match_date": null,
     "home_team": "ARG",
@@ -865,7 +865,7 @@
     ]
   },
   {
-    "fetched_at": "2026-07-02T10:53:02Z",
+    "fetched_at": "2026-07-02T14:49:44Z",
     "match_time": "July 39:30 PM ET",
     "match_date": null,
     "home_team": "COL",
@@ -1038,7 +1038,7 @@
     ]
   },
   {
-    "fetched_at": "2026-07-02T10:53:02Z",
+    "fetched_at": "2026-07-02T14:49:44Z",
     "match_time": "July 41:00 PM ET",
     "match_date": null,
     "home_team": "CAN",
@@ -1211,7 +1211,7 @@
     ]
   },
   {
-    "fetched_at": "2026-07-02T10:53:02Z",
+    "fetched_at": "2026-07-02T14:49:44Z",
     "match_time": "July 45:00 PM ET",
     "match_date": null,
     "home_team": "PAR",
@@ -1292,7 +1292,7 @@
         "pos": "FW",
         "name": "Julio Enciso",
         "player_id": "37012",
-        "status": "OUT",
+        "status": null,
         "profile_url": "https://www.rotowire.com/soccer/player/julio-enciso-37012"
       },
       {
@@ -1384,7 +1384,7 @@
     ]
   },
   {
-    "fetched_at": "2026-07-02T10:53:02Z",
+    "fetched_at": "2026-07-02T14:49:44Z",
     "match_time": "July 54:00 PM ET",
     "match_date": null,
     "home_team": "BRA",
@@ -1393,9 +1393,9 @@
     "away_status": "Predicted Lineup",
     "weather": "No weather info available",
     "odds": {
-      "-113": "-113",
-      "+263": "+263",
-      "+303": "+303"
+      "-114": "-114",
+      "+267": "+267",
+      "+307": "+307"
     },
     "home_players": [
       {
@@ -1557,7 +1557,7 @@
     ]
   },
   {
-    "fetched_at": "2026-07-02T10:53:02Z",
+    "fetched_at": "2026-07-02T14:49:44Z",
     "match_time": "July 58:00 PM ET",
     "match_date": null,
     "home_team": "MEX",
@@ -1566,9 +1566,9 @@
     "away_status": "Predicted Lineup",
     "weather": "97% Rain 68°  Wind 6 mph 342.7",
     "odds": {
-      "+202": "+202",
+      "+210": "+210",
       "+212": "+212",
-      "+147": "+147"
+      "+142": "+142"
     },
     "home_players": [
       {
@@ -1730,18 +1730,18 @@
     ]
   },
   {
-    "fetched_at": "2026-07-02T10:53:02Z",
+    "fetched_at": "2026-07-02T14:49:44Z",
     "match_time": "July 68:00 PM ET",
     "match_date": null,
     "home_team": "USA",
     "away_team": "BEL",
     "home_status": "Predicted Lineup",
     "away_status": "Predicted Lineup",
-    "weather": "0% 78°  Wind 7 mph 350.0",
+    "weather": "0% 78°  Wind 7 mph 340.0",
     "odds": {
-      "+150": "+150",
+      "+152": "+152",
       "+240": "+240",
-      "+177": "+177"
+      "+175": "+175"
     },
     "home_players": [
       {
